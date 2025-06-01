@@ -3,4 +3,4 @@
 
 使用方法：
 1，目前聿码输入法只支持RIME输入框架。以后可能会考虑支持其它输入法，例如，可能会添加IBUS，FCITX输入法的直接支持（推荐iBUS-RIME，FCITX-RIME，FCITX5-RIME），添加适配小小输入法的码表，等等。
-2，把yuma.schema.yaml,yuma3.dict.yaml文件下载后，放进相应rime的配置文件目录下，重新部署即可。Linux上，这个目录会是~/.config/ibus/rime,~/.config/fcitx/rime,~/.local/fcitx5/rime.
+2，把yuma.schema.yaml,yuma3.dict.yaml文件下载后，放进相应rime的配置文件目录下，重新部署即可。Linux上，这个目录会是~/.config/ibus/rime, ~/.config/fcitx/rime, ~/.local/fcitx5/rime.
