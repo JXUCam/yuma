@@ -7,4 +7,4 @@
 
 2，把yuma.schema.yaml,yuma3.dict.yaml文件下载后，放进相应rime的配置文件目录下，重新部署即可。Linux上，这个目录会是~/.config/ibus/rime, ~/.config/fcitx/rime, ~/.local/fcitx5/rime.
 
-3，在yuma.schema.yaml反查定义项中，作者用的是自然码双拼输入（周志农先生发明。网上流行的最后更新是zrm2000）来反查。zrm2000也有github repository，也是基于RIME平台的。用者可以自己搜索安装。用户也可用其它办法反查。这在相关注释行中有解释。
+3，在yuma.schema.yaml反查定义项中，作者用的是自然码双拼输入（由周志农先生发明。网上流行的最后更新是zrm2000）来反查。zrm2000也有github repository，也是基于RIME平台的。用者可以自己搜索安装。用户也可用其它办法反查。这在相关注释行中有解释。
