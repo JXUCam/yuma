@@ -3,8 +3,8 @@
 
 使用说明：
 
-1，目前聿码输入法只支持RIME输入平台。以后可能会考虑支持其它输入法，例如，可能会添加IBUS，FCITX输入法的直接支持（在Linux上推荐IBUS-RIME，FCITX-RIME，FCITX5-RIME），添加适配小小输入法的码表，等等。
+1，目前聿码输入法只支持佛振先生开发的中州韵RIME输入平台。以后可能会考虑支持其它输入法，例如，可能会添加IBUS，FCITX输入法的直接支持（在Linux上推荐IBUS-RIME，FCITX-RIME，FCITX5-RIME），添加适配小小输入法的码表，等等。
 
 2，把yuma.schema.yaml,yuma3.dict.yaml文件下载后，放进相应rime的配置文件目录下，重新部署即可。Linux上，这个目录会是~/.config/ibus/rime, ~/.config/fcitx/rime, ~/.local/fcitx5/rime.
 
-3，在yuma.schema.yaml反查定义项中，作者用的是自然码双拼输入zrm2000来反查。zrm2000也有github repository，也是基于RIME平台的。用者可以自己搜索安装。用户也可用其它办法反查。这在相关注释行中有解释。
+3，在yuma.schema.yaml反查定义项中，作者用的是自然码双拼输入（周志农先生发明。网上流行的最后更新是zrm2000）来反查。zrm2000也有github repository，也是基于RIME平台的。用者可以自己搜索安装。用户也可用其它办法反查。这在相关注释行中有解释。
