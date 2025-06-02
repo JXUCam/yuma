@@ -3,7 +3,7 @@
 
 使用说明：
 
-1，目前聿码输入法只支持佛振先生开发的中州韵RIME输入平台。以后可能会考虑支持其它输入法，例如，可能会添加IBUS，FCITX输入法的直接支持（在Linux上推荐IBUS-RIME，FCITX-RIME，FCITX5-RIME），添加适配小小输入法的码表，等等。
+1，目前聿码输入法只支持佛振先生开发的中州韵RIME输入平台。中州韵RIME在Linux上一般都是基于IBUS或FCITX输入框架之上（即IBUS-RIME，FCITX-RIME，FCITX5-RIME软件包），这也是作者使用并推荐的软件安装组合。以后可能会考虑支持其它输入平台，例如，可能会添加适配小小输入法的码表，也可能会添加对IBUS，FCITX输入法的直接支持，等等。RIME在微软Windows上的发行版叫小狼毫Weasel，在苹果MacOS上的发行版叫鼠须管Squirrel。在安卓Andriod移动设备操作系统上，有一个开源移植项目，叫同文Trime。请用者自行下载安装相应的发行版。以下步骤中所描述的RIME的配置文件夹的具体路径，也请用者自行调整。
 
 2，把yuma.schema.yaml,yuma3.dict.yaml文件下载后，放进相应rime的配置文件目录下，重新部署即可。Linux上，这个目录会是~/.config/ibus/rime, ~/.config/fcitx/rime, ~/.local/fcitx5/rime.
 
