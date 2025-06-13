@@ -1,0 +1,24 @@
+# Rime dictionary: yuma3
+# encoding: utf-8
+#
+# name: yuma3
+# author: ziyu
+# license: GPL
+#
+# 聿码·三码·简体
+# 版本：YYYYmmdd
+# 发明人：子聿
+
+---
+name: "yuma3"
+version: "YYYYmmdd"
+sort: by_weight
+columns:
+  - text
+  - code
+  - weight
+  - stem
+  - comment
+...
+
+
