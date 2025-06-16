@@ -2640,7 +2640,7 @@
 斋	qje	0	qje	0
 斌	qdl	0	qdl	0
 斐	lqw	0	lqw	0
-斑	ddq	0	ddq	0
+斑	dqw	0	dqw	0
 斓	qqh	1	qqh	1
 斗	zd	0	zd	0
 料	azd	0	azd	0
@@ -4097,7 +4097,7 @@
 珩	ded	0	ded	0
 珪	dff	0	dff	0
 珫	dqu	0	dqu	0
-班	dde	0	dd	0
+班	ded	0	ded	0
 珰	dpc	0	dpc	0
 珲	dxk	0	dxk	0
 珵	did	0	did	0
@@ -8307,7 +8307,7 @@
 一整天	shdt	0	shdt	0
 一文不值	sqjr	0	sqjr	0
 一文不名	sqjy	0	sqjy	0
-一斑	sydd	0	sydd	0
+一斑	sydq	0	sydq	0
 一斤	syej	0	syej	0
 一方有难	sqjb	1	sqjb	1
 一方面	sqjm	0	sqjm	0
@@ -8782,7 +8782,7 @@
 上下其手	lhgt	0	lhgt	0
 上下左右	lhjj	0	lhjj	0
 上下文	lhqw	0	lhqw	0
-上下班	lhdd	0	lhdd	0
+上下班	lhde	0	lhde	0
 上下结合	lhmw	0	lhmw	0
 上世	lugu	2	lugu	2
 上个	luwg	0	luwg	0
@@ -8909,7 +8909,7 @@
 上演	luzz	0	luzz	0
 上焦	lurz	0	lurz	0
 上牌	lurr	0	lurr	0
-上班	ludd	0	ludd	0
+上班	lude	0	lude	0
 上班族	ldqt	0	ldqt	0
 上界	luiw	0	luiw	0
 上瘾	luqv	0	luqv	0
@@ -9091,7 +9091,7 @@
 下滑	hxzo	0	hxzo	0
 下潜	hxzd	0	hxzd	0
 下狱	hxyx	0	hxyx	0
-下班	hxdd	0	hxdd	0
+下班	hxde	0	hxde	0
 下界	hxiw	0	hxiw	0
 下疳	hxqg	3	hxqg	3
 下盘	hxeo	0	hxeo	0
@@ -10659,7 +10659,7 @@
 中游	ivzq	0	ivzq	0
 中火	ivah	0	ivah	0
 中点	ivli	1	ivli	1
-中班	ivdd	1	ivdd	1
+中班	ivde	1	ivde	1
 中用	ivuy	0	ivuy	0
 中的	ivry	0	ivry	0
 中盘	iveo	0	iveo	0
@@ -12296,7 +12296,7 @@
 交游	qezq	2	qezq	2
 交火	qeah	0	qeah	0
 交点	qeli	1	qeli	1
-交班	qedd	1	qedd	1
+交班	qede	1	qede	1
 交由	qeiy	1	qeiy	1
 交电	qeid	0	qeid	0
 交界	qeiw	0	qeiw	0
@@ -13432,7 +13432,7 @@
 休整	rhht	0	rhht	0
 休斯敦	rgqv	0	rgqv	0
 休止	rhlv	0	rhlv	0
-休班	rhdd	0	rhdd	0
+休班	rhde	0	rhde	0
 休眠	rhic	0	rhic	0
 休闲	rhqh	0	rhqh	0
 休闲装	rqpf	0	rqpf	0
@@ -14893,7 +14893,7 @@
 倒灶	rkaf	0	rkaf	0
 倒爷	rkev	0	rkev	0
 倒牙	rkky	0	rkky	0
-倒班	rkdd	1	rkdd	1
+倒班	rkde	1	rkde	1
 倒立	rkql	0	rkql	0
 倒竖	rklb	0	rklb	0
 倒置	rkoj	0	rkoj	0
@@ -15013,7 +15013,7 @@
 值得	rjei	0	rjei	0
 值得一提	resf	0	resf	0
 值日	rjir	0	rjir	0
-值班	rjdd	0	rjdd	0
+值班	rjde	0	rjde	0
 值班室	rdzk	1	rdzk	1
 值钱	rjtd	0	rjtd	0
 倾侧	ruro	0	ruro	0
@@ -15661,7 +15661,7 @@
 光控	pjfz	0	pjfz	0
 光效	pjqe	0	pjqe	0
 光敏	pjtm	0	pjtm	0
-光斑	pjdd	0	pjdd	0
+光斑	pjdq	0	pjdq	0
 光明	pjiu	0	pjiu	0
 光明日报	piif	0	piif	0
 光明正大	pifj	1	pifj	1
@@ -16029,7 +16029,7 @@
 全然	wdyj	0	wdyj	0
 全然不知	wyjt	0	wyjt	0
 全然不顾	wyjj	0	wyjj	0
-全班	wddd	0	wddd	0
+全班	wded	0	wded	0
 全球	wddh	0	wddh	0
 全球化	wdru	1	wdru	1
 全球变暖	wdqi	5	wdqi	5
@@ -17679,7 +17679,7 @@
 几段	ujru	1	ujru	1
 几点	ujli	0	ujli	0
 几率	ujqm	0	ujqm	0
-几班	ujdd	0	ujdd	0
+几班	ujde	0	ujde	0
 几番	ujta	0	ujta	0
 几百年	ujtn	1	ujtn	1
 几眼	ujic	0	ujic	0
@@ -18184,7 +18184,7 @@
 分清	wbzd	0	wbzd	0
 分清是非	wzil	1	wzil	1
 分片	wbrp	0	wbrp	0
-分班	wbdd	0	wbdd	0
+分班	wbde	0	wbde	0
 分理	wbdi	0	wbdi	0
 分理处	wdyp	0	wdyp	0
 分界	wbiw	0	wbiw	0
@@ -19298,7 +19298,7 @@
 办报	bbfv	0	bbfv	0
 办案	bbzb	0	bbzb	0
 办法	bbzf	0	bbzf	0
-办班	bbdd	0	bbdd	0
+办班	bbde	0	bbde	0
 办理	bbdi	0	bbdi	0
 办结	bbmf	0	bbmf	0
 办证	bbxf	0	bbxf	0
@@ -19401,7 +19401,7 @@
 加满	bizg	0	bizg	0
 加点	bili	0	bili	0
 加热	bify	0	bify	0
-加班	bidd	0	bidd	0
+加班	bide	0	bide	0
 加班加点	bdbl	0	bdbl	0
 加盖	biao	0	biao	0
 加盟	biiu	0	biiu	0
@@ -20165,7 +20165,7 @@
 升格	tuhy	0	tuhy	0
 升涨	tuzc	0	tuzc	0
 升温	tuzi	0	tuzi	0
-升班	tudd	0	tudd	0
+升班	tude	0	tude	0
 升空	tuzf	3	tuzf	3
 升级	tumy	0	tumy	0
 升职	tugi	2	tugi	2
@@ -21207,7 +21207,7 @@
 去拿	fqwi	0	fqwi	0
 去掉	fqfl	0	fqfl	0
 去接	fqfq	1	fqfq	1
-去斑	fqdd	2	fqdd	2
+去斑	fqdq	2	fqdq	2
 去日	fqir	2	fqir	2
 去死	fqju	0	fqju	0
 去污	fqzs	0	fqzs	0
@@ -22861,7 +22861,7 @@
 各款	yifd	0	yifd	0
 各民族	ycqt	0	ycqt	0
 各派	yize	0	yize	0
-各班	yidd	1	yidd	1
+各班	yide	1	yide	1
 各界	yiiw	0	yiiw	0
 各省	yipi	0	yipi	0
 各种	yiti	0	yiti	0
@@ -23131,7 +23131,7 @@
 同济大学	uzjz	0	uzjz	0
 同源	uszj	0	uszj	0
 同犯	usym	0	usym	0
-同班	usdd	0	usdd	0
+同班	usde	0	usde	0
 同理	usdi	0	usdi	0
 同甘共苦	uggg	0	uggg	0
 同生	ustu	0	ustu	0
@@ -25857,7 +25857,7 @@
 坐椅	wwhj	0	wwhj	0
 坐满	wwzg	0	wwzg	0
 坐牢	wwzt	1	wwzt	1
-坐班	wwdd	0	wwdd	0
+坐班	wwde	0	wwde	0
 坐着	wwai	0	wwai	0
 坐禅	wwxa	0	wwxa	0
 坐立不安	wqjz	0	wqjz	0
@@ -26095,7 +26095,7 @@
 培育	fqqi	1	fqqi	1
 培训	fqxr	0	fqxr	0
 培训中心	fxix	0	fxix	0
-培训班	fxdd	0	fxdd	0
+培训班	fxde	0	fxde	0
 基业	gfly	0	gfly	0
 基于	gfdy	0	gfdy	0
 基价	gfrw	0	gfrw	0
@@ -26231,7 +26231,7 @@
 塑身	gvru	0	gvru	0
 塑造	gvti	0	gvti	0
 塑钢	gvto	0	gvto	0
-塔利班	ftdd	0	ftdd	0
+塔利班	ftde	0	ftde	0
 塔台	fgni	0	fgni	0
 塔吉克族	fffq	2	fffq	2
 塔吊	fgio	2	fgio	2
@@ -26250,7 +26250,7 @@
 塞尔维亚	zumg	0	zumg	0
 塞浦路斯	zzig	0	zzig	0
 塞满	zfzg	1	zfzg	1
-塞班	zfdd	0	zfdd	0
+塞班	zfde	0	zfde	0
 塞纳	zfmo	0	zfmo	0
 塞给	zfmw	0	zfmw	0
 塞翁失马	zwtm	0	zwtm	0
@@ -27001,7 +27001,7 @@
 夜游	qrzq	0	qrzq	0
 夜灯	qraf	0	qraf	0
 夜猫子	qyvz	2	qyvz	2
-夜班	qrdd	0	qrdd	0
+夜班	qrde	0	qrde	0
 夜生活	qtzt	0	qtzt	0
 夜盲	qrqi	2	qrqi	2
 夜空	qrzf	0	qrzf	0
@@ -27415,7 +27415,7 @@
 大献殷勤	jjrg	1	jjrg	1
 大王	jddw	0	jddw	0
 大环境	jdfq	0	jdfq	0
-大班	jddd	0	jddd	0
+大班	jdde	0	jdde	0
 大理	jddi	0	jddi	0
 大理石	jdju	0	jdju	0
 大田	jdit	1	jdit	1
@@ -29540,7 +29540,7 @@
 学业有成	zljj	0	zljj	0
 学习	zvnx	0	zvnx	0
 学习成绩	znjm	1	znjm	1
-学习班	zndd	0	zndd	0
+学习班	znde	0	znde	0
 学人	zvwr	0	zvwr	0
 学以致用	znku	0	znku	0
 学会	zvwd	0	zvwd	0
@@ -29552,7 +29552,7 @@
 学制	zvtl	0	zvtl	0
 学前	zvgi	1	zvgi	1
 学前教育	zgfq	0	zgfq	0
-学前班	zgdd	0	zgdd	0
+学前班	zgde	0	zgde	0
 学力	zvbl	0	zvbl	0
 学区	zvkw	0	zvkw	0
 学医	zvkt	0	zvkt	0
@@ -31282,7 +31282,7 @@
 小猪	pxyf	0	pxyf	0
 小猫	pxyg	0	pxyg	0
 小王	pxdw	0	pxdw	0
-小班	pxdd	0	pxdd	0
+小班	pxde	0	pxde	0
 小球	pxdh	0	pxdh	0
 小生	pxtu	0	pxtu	0
 小男孩	pivq	0	pivq	0
@@ -32780,7 +32780,7 @@
 带毒	gxdm	1	gxdm	1
 带点	gxli	0	gxli	0
 带状	gxpj	0	gxpj	0
-带班	gxdd	0	gxdd	0
+带班	gxde	0	gxde	0
 带球	gxdh	0	gxdh	0
 带电	gxid	0	gxid	0
 带病	gxqh	2	gxqh	2
@@ -33959,7 +33959,7 @@
 开灯	dkaf	0	dkaf	0
 开炮	dkau	0	dkau	0
 开玩笑	ddtt	0	ddtt	0
-开班	dkdd	0	dkdd	0
+开班	dkde	0	dkde	0
 开球	dkdh	0	dkdh	0
 开疆拓土	dcff	0	dcff	0
 开盘	dkeo	0	dkeo	0
@@ -34562,7 +34562,7 @@
 当然	pcyj	0	pcyj	0
 当然是	pyif	0	pyif	0
 当牛做马	ptrm	0	ptrm	0
-当班	pcdd	0	pcdd	0
+当班	pcde	0	pcde	0
 当真	pcjw	0	pcjw	0
 当着	pcai	0	pcai	0
 当票	pchd	0	pchd	0
@@ -36959,7 +36959,7 @@
 戏法	bkzf	0	bkzf	0
 戏照	bkib	0	bkib	0
 戏珠	bkdt	0	bkdt	0
-戏班	bkdd	0	bkdd	0
+戏班	bkde	0	bkde	0
 戏目	bkim	0	bkim	0
 戏码	bkjm	0	bkjm	0
 戏票	bkhd	0	bkhd	0
@@ -38530,7 +38530,7 @@
 报晓	fvik	0	fvik	0
 报栏	fvhg	1	fvhg	1
 报案	fvzb	0	fvzb	0
-报班	fvdd	0	fvdd	0
+报班	fvde	0	fvde	0
 报界	fviw	2	fviw	2
 报社	fvxf	0	fvxf	0
 报税	fvta	2	fvta	2
@@ -39639,7 +39639,7 @@
 换汤不换药	fzjg	0	fzjg	0
 换洗	fyzt	1	fyzt	1
 换牙	fyky	0	fyky	0
-换班	fydd	0	fydd	0
+换班	fyde	0	fyde	0
 换算	fyti	0	fyti	0
 换群	fyci	1	fyci	1
 换肤	fyud	0	fyud	0
@@ -39817,7 +39817,7 @@
 排炮	flau	1	flau	1
 排烟	flai	3	flai	3
 排版	flre	0	flre	0
-排班	fldd	0	fldd	0
+排班	flde	0	flde	0
 排球	fldh	0	fldh	0
 排球队	fdvw	0	fdvw	0
 排空	flzf	0	flzf	0
@@ -39921,7 +39921,7 @@
 接洽	fqzw	0	fqzw	0
 接济	fqzq	0	fqzq	0
 接火	fqah	1	fqah	1
-接班	fqdd	1	fqdd	1
+接班	fqde	1	fqde	1
 接班人	fdwr	0	fdwr	0
 接球	fqdh	0	fqdh	0
 接生	fqtu	3	fqtu	3
@@ -40153,7 +40153,7 @@
 插曲	ftiq	0	ftiq	0
 插条	ftys	0	ftys	0
 插槽	fthg	0	fthg	0
-插班	ftdd	1	ftdd	1
+插班	ftde	1	ftde	1
 插画	ftsi	0	ftsi	0
 插科打诨	ftfx	0	ftfx	0
 插秧	ftti	1	ftti	1
@@ -40322,7 +40322,7 @@
 搭桥	fght	2	fght	2
 搭桥牵线	fhjm	1	fhjm	1
 搭棚	fghu	2	fghu	2
-搭班	fgdd	0	fgdd	0
+搭班	fgde	0	fgde	0
 搭理	fgdi	0	fgdi	0
 搭界	fgiw	0	fgiw	0
 搭线	fgmd	0	fgmd	0
@@ -41681,22 +41681,22 @@
 斋饭	qjye	0	qjye	0
 斐济	lqzq	1	lqzq	1
 斐然	lqyj	0	lqyj	0
-斑斑	dddd	1	dddd	1
+斑斑	dqdq	1	dqdq	1
 斑斑点点	ddll	0	ddll	0
-斑斓	ddqq	1	ddqq	1
-斑点	ddli	0	ddli	0
-斑疹	ddqw	0	ddqw	0
-斑痕	ddqc	0	ddqc	0
-斑白	ddrb	0	ddrb	0
-斑秃	ddtu	0	ddtu	0
-斑竹	ddtl	0	ddtl	0
-斑纹	ddmq	0	ddmq	0
-斑蝥	ddnt	0	ddnt	0
-斑马	ddmm	0	ddmm	0
+斑斓	dqqq	1	dqqq	1
+斑点	dqli	0	dqli	0
+斑疹	dqqw	0	dqqw	0
+斑痕	dqqc	0	dqqc	0
+斑白	dqrb	0	dqrb	0
+斑秃	dqtu	0	dqtu	0
+斑竹	dqtl	0	dqtl	0
+斑纹	dqmq	0	dqmq	0
+斑蝥	dqnt	0	dqnt	0
+斑马	dqmm	0	dqmm	0
 斑马线	dmmd	0	dmmd	0
-斑驳	ddmw	0	ddmw	0
+斑驳	dqmw	0	dqmw	0
 斑驳陆离	dmvq	0	dmvq	0
-斑鸠	dduy	0	dduy	0
+斑鸠	dquy	0	dquy	0
 斗争	zdyv	0	zdyv	0
 斗嘴	zdil	1	zdil	1
 斗地主	zfqv	0	zfqv	0
@@ -42641,7 +42641,7 @@
 日版	irre	0	irre	0
 日环食	idwu	0	idwu	0
 日珥	irdg	0	irdg	0
-日班	irdd	0	irdd	0
+日班	irde	0	irde	0
 日理万机	idkh	0	idkh	0
 日甚一日	igsi	0	igsi	0
 日用	iruy	0	iruy	0
@@ -42774,7 +42774,7 @@
 早泄	ifzg	0	ifzg	0
 早点	ifli	0	ifli	0
 早熟	ifqv	0	ifqv	0
-早班	ifdd	0	ifdd	0
+早班	ifde	0	ifde	0
 早生贵子	itiv	3	itiv	3
 早睡	ifit	0	ifit	0
 早知	ifti	1	ifti	1
@@ -43359,7 +43359,7 @@
 晚期	iygu	0	iygu	0
 晚点	iyli	0	iyli	0
 晚熟	iyqv	1	iyqv	1
-晚班	iydd	0	iydd	0
+晚班	iyde	0	iyde	0
 晚生	iytu	1	iytu	1
 晚睡	iyit	0	iyit	0
 晚秋	iyta	2	iyta	2
@@ -43852,7 +43852,7 @@
 替天行道	ddea	0	ddea	0
 替换	ddfy	0	ddfy	0
 替死鬼	djrg	0	djrg	0
-替班	dddd	2	dddd	2
+替班	dede	2	dede	2
 替罪羊	doay	0	doay	0
 替考	ddfk	0	ddfk	0
 替补	ddxp	0	ddxp	0
@@ -44560,7 +44560,7 @@
 末梢	dmhp	0	dmhp	0
 末梢神经	dhxm	0	dhxm	0
 末流	dmzq	1	dmzq	1
-末班	dmdd	0	dmdd	0
+末班	dmde	0	dmde	0
 末班车	ddki	1	ddki	1
 末端	dmqo	0	dmqo	0
 末节	dmgv	0	dmgv	0
@@ -44650,7 +44650,7 @@
 本溪	hbze	0	hbze	0
 本片	hbrp	0	hbrp	0
 本版	hbre	0	hbre	0
-本班	hbdd	0	hbdd	0
+本班	hbde	0	hbde	0
 本田	hbit	0	hbit	0
 本相	hbhi	2	hbhi	2
 本省	hbpi	0	hbpi	0
@@ -47289,7 +47289,7 @@
 每次	tmqy	0	tmqy	0
 每段	tmru	1	tmru	1
 每每	tmtm	0	tmtm	0
-每班	tmdd	0	tmdd	0
+每班	tmde	0	tmde	0
 每种	tmti	1	tmti	1
 每秒	tmtp	0	tmtp	0
 每米	tmam	0	tmam	0
@@ -47412,7 +47412,7 @@
 比量	uuis	0	uuis	0
 毕业	uuly	0	uuly	0
 毕业后	uleh	0	uleh	0
-毕业班	uldd	0	uldd	0
+毕业班	ulde	0	ulde	0
 毕业生	ultu	0	ultu	0
 毕业论文	ulxq	0	ulxq	0
 毕业证	ulxf	0	ulxf	0
@@ -51041,7 +51041,7 @@
 炉膛	axup	0	axup	0
 炊事	ayhu	0	ayhu	0
 炊事员	ahio	0	ahio	0
-炊事班	ahdd	0	ahdd	0
+炊事班	ahde	0	ahde	0
 炊具	ayij	0	ayij	0
 炊帚	aycx	0	aycx	0
 炊烟	ayai	0	ayai	0
@@ -52942,35 +52942,35 @@
 珠翠	dtnn	1	dtnn	1
 珠联璧合	dgcw	0	dgcw	0
 珠胎暗结	duim	0	duim	0
-班上	ddlu	0	ddlu	0
-班主	ddqv	0	ddqv	0
+班上	delu	0	delu	0
+班主	deqv	0	deqv	0
 班主任	dqrt	0	dqrt	0
-班会	ddwd	1	ddwd	1
-班别	ddib	0	ddib	0
-班务	ddyb	0	ddyb	0
-班固	ddif	0	ddif	0
-班委	ddtb	0	ddtb	0
-班子	ddvz	0	ddvz	0
-班师	ddls	0	ddls	0
+班会	dewd	1	dewd	1
+班别	deib	0	deib	0
+班务	deyb	0	deyb	0
+班固	deif	0	deif	0
+班委	detb	0	detb	0
+班子	devz	0	devz	0
+班师	dels	0	dels	0
 班师回朝	dlif	0	dlif	0
 班干部	ddqi	0	ddqi	0
-班底	ddqu	0	ddqu	0
-班房	ddxq	0	ddxq	0
-班期	ddgu	0	ddgu	0
-班机	ddhu	0	ddhu	0
-班次	ddqy	0	ddqy	0
-班禅	ddxa	0	ddxa	0
-班级	ddmy	0	ddmy	0
-班组	ddmi	0	ddmi	0
-班花	ddgr	1	ddgr	1
-班规	dddo	0	dddo	0
-班费	ddco	0	ddco	0
-班超	ddfl	0	ddfl	0
-班车	ddki	0	ddki	0
-班里	ddil	0	ddil	0
-班长	ddti	0	ddti	0
+班底	dequ	0	dequ	0
+班房	dexq	0	dexq	0
+班期	degu	0	degu	0
+班机	dehu	0	dehu	0
+班次	deqy	0	deqy	0
+班禅	dexa	0	dexa	0
+班级	demy	0	demy	0
+班组	demi	0	demi	0
+班花	degr	1	degr	1
+班规	dedo	0	dedo	0
+班费	deco	0	deco	0
+班超	defl	0	defl	0
+班车	deki	0	deki	0
+班里	deil	0	deil	0
+班长	deti	0	deti	0
 班门弄斧	dqde	1	dqde	1
-班风	ddyf	0	ddyf	0
+班风	deyf	0	deyf	0
 珲春	dxsi	0	dxsi	0
 球体	dhrh	0	dhrh	0
 球台	dhni	0	dhni	0
@@ -54434,7 +54434,7 @@
 白描	rbfg	1	rbfg	1
 白搭	rbfg	0	rbfg	0
 白文	rbqw	0	rbqw	0
-白斑	rbdd	0	rbdd	0
+白斑	rbdq	0	rbdq	0
 白族	rbqt	1	rbqt	1
 白旗	rbqg	0	rbqg	0
 白日	rbir	0	rbir	0
@@ -54465,7 +54465,7 @@
 白熊	rbni	2	rbni	2
 白猫	rbyg	0	rbyg	0
 白玉	rbdy	1	rbdy	1
-白班	rbdd	1	rbdd	1
+白班	rbde	1	rbde	1
 白璧微瑕	rced	1	rced	1
 白璧无瑕	rcdd	0	rcdd	0
 白痴	rbqt	0	rbqt	0
@@ -56597,7 +56597,7 @@
 祖茔	xigf	0	xigf	0
 祖训	xixr	0	xixr	0
 祖辈	xilk	0	xilk	0
-祛斑	xfdd	0	xfdd	0
+祛斑	xfdq	0	xfdq	0
 祛除	xfvw	0	xfvw	0
 祝你	xiru	0	xiru	0
 祝大家	xjzj	0	xjzj	0
@@ -57125,7 +57125,7 @@
 科林	tzhh	0	tzhh	0
 科比	tzuu	0	tzuu	0
 科特迪瓦	ttik	0	ttik	0
-科班	tzdd	0	tzdd	0
+科班	tzde	0	tzde	0
 科班出身	tdvr	0	tdvr	0
 科甲	tzij	0	tzij	0
 科目	tzim	0	tzim	0
@@ -59052,7 +59052,7 @@
 红心	mfxx	0	mfxx	0
 红扑扑	mffp	0	mffp	0
 红教	mffv	0	mffv	0
-红斑	mfdd	0	mfdd	0
+红斑	mfdq	0	mfdq	0
 红斑狼疮	mdyq	0	mdyq	0
 红方	mfqf	0	mfqf	0
 红旗	mfqg	0	mfqg	0
@@ -60783,7 +60783,7 @@
 翘尾巴	kcvb	0	kcvb	0
 翘望	kjqu	0	kjqu	0
 翘楚	kjhh	0	kjhh	0
-翘班	kjdd	0	kjdd	0
+翘班	kjde	0	kjde	0
 翘盼	kjiw	0	kjiw	0
 翘着	kjai	3	kjai	3
 翘臀	kjcg	0	kjcg	0
@@ -60874,7 +60874,7 @@
 翻领	tawz	0	tawz	0
 翻飞	tanf	0	tanf	0
 翼展	nncg	0	nncg	0
-耀斑	pjdd	1	pjdd	1
+耀斑	pjdq	1	pjdq	1
 耀武扬威	pdfj	0	pdfj	0
 耀眼	pjic	0	pjic	0
 老一代	gsrk	0	gsrk	0
@@ -60968,7 +60968,7 @@
 老干部	gdqi	0	gdqi	0
 老年	gltn	0	gltn	0
 老年人	gtwr	0	gtwr	0
-老年斑	gtdd	0	gtdd	0
+老年斑	gtdq	0	gtdq	0
 老幼	glmb	0	glmb	0
 老底	glqu	1	glqu	1
 老式	glkf	0	glkf	0
@@ -62168,7 +62168,7 @@
 脱氧核糖核酸	uthh	0	uthh	0
 脱水	uaou	0	uaou	0
 脱漏	uazc	0	uazc	0
-脱班	uadd	0	uadd	0
+脱班	uade	0	uade	0
 脱皮	uabp	0	uabp	0
 脱盲	uaqi	1	uaqi	1
 脱相	uahi	0	uahi	0
@@ -62862,7 +62862,7 @@
 航测	eqzo	0	eqzo	0
 航海	eqzt	0	eqzt	0
 航渡	eqzq	0	eqzq	0
-航班	eqdd	0	eqdd	0
+航班	eqde	0	eqde	0
 航程	eqti	0	eqti	0
 航空	eqzf	0	eqzf	0
 航空公司	ezwc	0	ezwc	0
@@ -63003,7 +63003,7 @@
 色戒	yskj	0	yskj	0
 色拉	ysfq	0	ysfq	0
 色散	ysgi	0	ysgi	0
-色斑	ysdd	0	ysdd	0
+色斑	ysdq	0	ysdq	0
 色欲	ysey	0	ysey	0
 色泽	yszb	0	yszb	0
 色温	yszi	0	yszi	0
@@ -63212,7 +63212,7 @@
 花拳绣腿	gamu	0	gamu	0
 花掉	grfl	0	grfl	0
 花插	grft	1	grft	1
-花斑	grdd	0	grdd	0
+花斑	grdq	0	grdq	0
 花旗	grqg	0	grqg	0
 花旗银行	gqte	0	gqte	0
 花旦	gris	1	gris	1
@@ -65114,7 +65114,7 @@
 补丁	xpfd	0	xpfd	0
 补上	xplu	0	xplu	0
 补习	xpnx	0	xpnx	0
-补习班	xndd	0	xndd	0
+补习班	xnde	0	xnde	0
 补交	xpqe	0	xpqe	0
 补仓	xpwm	0	xpwm	0
 补休	xprh	1	xprh	1
@@ -66207,7 +66207,7 @@
 训示	xrdu	0	xrdu	0
 训练	xrmk	0	xrmk	0
 训练有素	xmjd	0	xmjd	0
-训练班	xmdd	0	xmdd	0
+训练班	xmde	0	xmde	0
 训诂	xrxf	0	xrxf	0
 训词	xrxc	0	xrxc	0
 训话	xrxt	1	xrxt	1
@@ -66281,7 +66281,7 @@
 记错	xctg	0	xctg	0
 讲义	xday	0	xday	0
 讲习	xdnx	0	xdnx	0
-讲习班	xndd	1	xndd	1
+讲习班	xnde	1	xnde	1
 讲了	xdvl	0	xdvl	0
 讲价	xdrw	0	xdrw	0
 讲出	xdvi	0	xdvi	0
@@ -68651,7 +68651,7 @@
 跟打器	ifii	1	ifii	1
 跟斗	iczd	0	iczd	0
 跟梢	ichp	0	ichp	0
-跟班	icdd	0	icdd	0
+跟班	icde	0	icde	0
 跟着	icai	0	icai	0
 跟脚	icuf	0	icuf	0
 跟读	icxf	0	icxf	0
@@ -68875,7 +68875,7 @@
 蹲坑	iafq	0	iafq	0
 蹲守	iazh	0	iazh	0
 蹲点	iali	0	iali	0
-蹲班	iadd	0	iadd	0
+蹲班	iade	0	iade	0
 蹲着	iaai	0	iaai	0
 蹲膘	iauh	0	iauh	0
 蹲苗	iagi	0	iagi	0
@@ -69220,7 +69220,7 @@
 轮流	kwzq	0	kwzq	0
 轮渡	kwzq	2	kwzq	2
 轮滑	kwzo	0	kwzo	0
-轮班	kwdd	0	kwdd	0
+轮班	kwde	0	kwde	0
 轮番	kwta	0	kwta	0
 轮盘	kweo	0	kweo	0
 轮空	kwzf	1	kwzf	1
@@ -69458,7 +69458,7 @@
 辅助性	kipt	0	kipt	0
 辅导	khch	0	khch	0
 辅导员	kcio	0	kcio	0
-辅导班	kcdd	0	kcdd	0
+辅导班	kcde	0	kcde	0
 辅币	khrb	0	khrb	0
 辅弼	khcj	0	khcj	0
 辅料	khaz	0	khaz	0
@@ -70096,7 +70096,7 @@
 进价	dxrw	0	dxrw	0
 进位	dxrq	0	dxrq	0
 进修	dxry	0	dxry	0
-进修班	drdd	0	drdd	0
+进修班	drde	0	drde	0
 进入	dxwr	0	dxwr	0
 进兵	dxrw	1	dxrw	1
 进军	dxxk	0	dxxk	0
@@ -72610,7 +72610,7 @@
 锅碗	tijz	2	tijz	2
 锅碗瓢盆	tjhw	0	tjhw	0
 锅里	tiil	0	tiil	0
-锈斑	ttdd	0	ttdd	0
+锈斑	ttdq	0	ttdq	0
 锈病	ttqh	1	ttqh	1
 锈蚀	ttyi	2	ttyi	2
 锈迹斑斑	tqdd	0	tqdd	0
@@ -74218,7 +74218,7 @@
 难闻	brqg	1	brqg	1
 难题	brif	0	brif	0
 雀巢	prmi	0	prmi	0
-雀斑	prdd	0	prdd	0
+雀斑	prdq	0	prdq	0
 雀跃	prit	0	prit	0
 雁过拔毛	jhft	2	jhft	2
 雁过留声	jhyf	1	jhyf	1
@@ -75095,7 +75095,7 @@
 顶点	fjli	0	fjli	0
 顶牛	fjtn	0	fjtn	0
 顶珠	fjdt	2	fjdt	2
-顶班	fjdd	1	fjdd	1
+顶班	fjde	1	fjde	1
 顶用	fjuy	0	fjuy	0
 顶真	fjjw	0	fjjw	0
 顶着	fjai	0	fjai	0
@@ -75353,7 +75353,7 @@
 领教	wzfv	1	wzfv	1
 领海	wzzt	1	wzzt	1
 领港	wzzg	0	wzzg	0
-领班	wzdd	0	wzdd	0
+领班	wzde	0	wzde	0
 领略	wziy	0	wziy	0
 领着	wzai	2	wzai	2
 领空	wzzf	1	wzzf	1
@@ -76806,7 +76806,7 @@
 鱿鱼	yjyy	0	yjyy	0
 鲁东	yikd	0	yikd	0
 鲁山	yiou	1	yiou	1
-鲁班	yidd	0	yidd	0
+鲁班	yide	0	yide	0
 鲁莽	yigj	0	yigj	0
 鲁菜	yige	1	yige	1
 鲁迅	yicx	0	yicx	0
@@ -77097,7 +77097,7 @@
 黄巢	ghmi	0	ghmi	0
 黄巾起义	gofa	0	gofa	0
 黄帝	ghqd	0	ghqd	0
-黄斑	ghdd	0	ghdd	0
+黄斑	ghdq	0	ghdq	0
 黄昏	ghui	0	ghui	0
 黄杨	ghhn	0	ghhn	0
 黄果树	gihb	2	gihb	2
@@ -77224,7 +77224,7 @@
 黑户	ohxh	0	ohxh	0
 黑手	ohtu	0	ohtu	0
 黑手党	otpu	0	otpu	0
-黑斑	ohdd	0	ohdd	0
+黑斑	ohdq	0	ohdq	0
 黑暗	ohiq	0	ohiq	0
 黑板	ohhe	0	ohhe	0
 黑板报	ohfv	0	ohfv	0
