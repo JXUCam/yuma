@@ -3,7 +3,7 @@ source: null
 info:
   name: 聿码
   author: 子聿
-  version: 0.3.0
+  version: 0.3.1
   description: >-
     参考了郑码、三郑码、徐码、宇浩码、易码的设计思想。
 
@@ -135,6 +135,7 @@ form:
     "\uebe2": 参
     麥: 麦
     "\ue823": 㫃
+    "\ue896": 昆
   mapping:
     '1': sy
     '2': lu
@@ -785,6 +786,11 @@ form:
     双拼韵母-er: r
     双拼韵母-n: 'n'
     双拼韵母-ng: h
+    兒: rr
+    䖵: ik
+    思: is
+    昆: ik
+    昏: uh
   mapping_type: 2
 encoder:
   max_length: 4

@@ -84,8 +84,8 @@
 㑓	rnjb	0	rnj	0
 㑔	rjyr	2	rjyr	1
 㑕	royx	0	roy	0
-㑖	rriv	0	rri	0
-㑗	rrur	0	rrur	0
+㑖	rriv	0	rriv	0
+㑗	rrur	0	rru	0
 㑘	rkjg	0	rkjg	0
 㑙	rgmw	3	rgmw	3
 㑚	rcve	0	rcve	0
@@ -167,11 +167,11 @@
 㒦	riif	1	riif	1
 㒧	rqwr	1	rqwr	1
 㒨	rrrc	0	rrrc	0
-㒩	rmii	0	rmii	0
+㒩	rmik	0	rmik	0
 㒪	wggj	0	wgg	0
 㒫	slue	1	slu	0
 㒬	sjdw	0	sjd	0
-㒭	iuiu	3	iuiu	3
+㒭	iuiu	2	iuiu	2
 㒮	sjju	0	sjju	0
 㒯	pjgg	1	pjg	0
 㒰	wfgr	1	wfg	0
@@ -235,7 +235,7 @@
 㓪	zcbd	0	zcb	0
 㓫	jdld	1	jdld	1
 㓬	abld	0	abl	0
-㓭	iuwl	3	iuwl	3
+㓭	iuwl	2	iuwl	2
 㓮	ufil	3	ufil	3
 㓯	mild	1	mild	0
 㓰	sivl	1	sivl	1
@@ -360,7 +360,7 @@
 㕦	ijdk	2	ijd	0
 㕧	icuk	0	icuk	0
 㕨	iyfk	1	iyf	0
-㕩	isfk	0	isfk	0
+㕩	isfk	2	isfk	2
 㕪	ioyk	0	ioyk	0
 㕫	iqfk	0	iqfk	0
 㕬	iwns	1	iwns	1
@@ -422,7 +422,7 @@
 㖤	ivzv	1	ivzv	1
 㖥	iith	0	iit	0
 㖦	ihsy	0	ihs	0
-㖧	iuir	1	iuir	1
+㖧	iuhk	0	iuhk	0
 㖨	icpu	1	icp	0
 㖩	igby	1	igby	0
 㖪	ikis	1	ikis	1
@@ -666,7 +666,7 @@
 㚘	ddff	0	ddff	0
 㚙	bijd	2	bijd	1
 㚚	jymd	0	jym	0
-㚛	juir	2	juir	2
+㚛	juir	1	juir	1
 㚜	jkis	0	jkis	0
 㚝	jrff	2	jrf	0
 㚞	jhhm	1	jhhm	1
@@ -701,7 +701,7 @@
 㚻	ibnt	0	ibnt	0
 㚼	bitn	2	bit	0
 㚽	fkbn	0	fkb	0
-㚾	biue	1	biue	1
+㚾	biue	1	biu	0
 㚿	bybn	0	bybn	0
 㛀	bucx	0	buc	0
 㛁	bkpn	0	bkp	0
@@ -998,7 +998,7 @@
 㟤	ocpu	0	ocp	0
 㟥	oncu	0	oncu	0
 㟦	oxki	0	oxk	0
-㟧	oisk	1	oisk	0
+㟧	oisk	1	oisk	1
 㟨	ooje	0	ooje	0
 㟩	ctou	1	ctou	0
 㟪	oiko	1	oiko	1
@@ -1034,7 +1034,7 @@
 㠈	oqdw	0	oqd	0
 㠉	oqil	1	oqil	0
 㠊	olly	0	oll	0
-㠋	oisk	2	oisk	1
+㠋	oisk	2	oisk	2
 㠌	ogyq	1	ogyq	0
 㠍	orhm	1	orhm	0
 㠎	orhm	2	orhm	1
@@ -1179,7 +1179,7 @@
 㢙	qgsb	0	qgsb	0
 㢚	qlib	0	qlib	0
 㢛	qwiw	2	qwiw	2
-㢜	qgix	0	qgix	0
+㢜	qgis	3	qgis	3
 㢝	qyth	1	qyt	0
 㢞	qniw	0	qniw	0
 㢟	lmby	0	lmb	0
@@ -1399,7 +1399,7 @@
 㥵	piju	0	piju	0
 㥶	zxxs	0	zxxs	0
 㥷	qjwx	0	qjwx	0
-㥸	cixx	0	cix	0
+㥸	cism	0	cism	0
 㥹	awbx	0	awbx	0
 㥺	pfom	0	pfo	0
 㥻	jtxx	0	jtx	0
@@ -1445,7 +1445,7 @@
 㦣	edmx	1	edm	0
 㦤	fxhx	1	fxhx	1
 㦥	pzsx	0	pzs	0
-㦦	pqru	0	pqru	0
+㦦	pqrr	0	pqrr	0
 㦧	ptui	0	ptui	0
 㦨	pqhj	0	pqhj	0
 㦩	pvex	0	pve	0
@@ -1603,7 +1603,7 @@
 㩁	fzrv	0	fzrv	0
 㩂	fyzd	1	fyzd	1
 㩃	fzzo	0	fzz	0
-㩄	foix	0	foix	0
+㩄	fois	1	fois	1
 㩅	fhli	3	fhli	2
 㩆	fqjy	1	fqjy	1
 㩇	fcis	0	fcis	0
@@ -1681,7 +1681,7 @@
 㪏	rhvb	0	rhvb	0
 㪐	xjhv	0	xjhv	0
 㪑	jihv	0	jihv	0
-㪒	ruhv	0	ruhv	0
+㪒	rhvr	1	rhvr	0
 㪓	tluh	1	tluh	1
 㪔	hhhv	0	hhhv	0
 㪕	lifh	1	lifh	1
@@ -1771,7 +1771,7 @@
 㫩	fjir	2	fjir	2
 㫪	slir	0	sli	0
 㫫	igyr	0	igyr	0
-㫬	iuir	2	iuir	2
+㫬	iuir	1	iuir	1
 㫭	ifhc	2	ifhc	1
 㫮	luir	1	luir	0
 㫯	iijw	1	iijw	1
@@ -2254,7 +2254,7 @@
 㳌	ziju	3	ziju	3
 㳍	zjoj	0	zjo	0
 㳎	znjg	0	znjg	0
-㳏	ziuu	2	ziuu	1
+㳏	ziuu	1	ziuu	1
 㳐	zhmw	0	zhmw	0
 㳑	zomu	0	zom	0
 㳒	zjns	0	zjn	0
@@ -2322,7 +2322,7 @@
 㴐	zihm	2	zihm	1
 㴑	zqgv	1	zqgv	1
 㴒	zqjg	1	zqjg	1
-㴓	zixx	3	zixx	2
+㴓	zisu	0	zisu	0
 㴔	zucx	0	zuc	0
 㴕	zgth	0	zgt	0
 㴖	zggu	3	zggu	2
@@ -2679,7 +2679,7 @@
 㹵	ysmf	0	ysm	0
 㹶	ytby	0	ytby	0
 㹷	wjoj	2	wjoj	1
-㹸	yrue	2	yrue	1
+㹸	yrue	0	yru	0
 㹹	yqco	2	yqco	2
 㹺	yoir	2	yoir	1
 㹻	ytbn	2	ytbn	2
@@ -2837,7 +2837,7 @@
 㼓	eajg	0	eaj	0
 㼔	ioeg	0	ioe	0
 㼕	pieg	0	pie	0
-㼖	emii	0	emii	0
+㼖	emik	1	emik	1
 㼗	fkwd	0	fkwd	0
 㼘	okwu	0	okwu	0
 㼙	okwj	0	okwj	0
@@ -2923,7 +2923,7 @@
 㽩	innw	0	inn	0
 㽪	iazt	0	iazt	0
 㽫	qmri	0	qmri	0
-㽬	siii	1	siii	1
+㽬	siii	0	siii	0
 㽭	ihje	3	ihje	2
 㽮	iiit	2	iiit	2
 㽯	iori	1	iori	0
@@ -3100,7 +3100,7 @@
 䀚	iyam	0	iyam	0
 䀛	iywm	1	iywm	1
 䀜	yimw	1	yimw	1
-䀝	iuub	4	iuub	3
+䀝	iuub	3	iuub	3
 䀞	izdm	1	izdm	1
 䀟	icfm	0	icf	0
 䀠	iimm	5	iimm	5
@@ -3123,7 +3123,7 @@
 䀱	iysf	2	iysf	1
 䀲	itmm	4	itmm	4
 䀳	ihum	0	ihu	0
-䀴	ismf	0	ismf	0
+䀴	ismf	1	ismf	1
 䀵	intu	2	intu	1
 䀶	ixlm	0	ixlm	0
 䀷	ifbl	1	ifbl	0
@@ -3265,7 +3265,7 @@
 䂿	joir	0	joi	0
 䃀	jkqu	0	jkq	0
 䃁	jsll	0	jsl	0
-䃂	jiuu	1	jiuu	0
+䃂	jiku	0	jiku	0
 䃃	jugq	0	jug	0
 䃄	jqju	2	jqj	0
 䃅	jadu	0	jadu	0
@@ -3344,7 +3344,7 @@
 䄎	xjhk	0	xjhk	0
 䄏	xgty	0	xgt	0
 䄐	vdcs	0	vdc	0
-䄑	xuir	2	xuir	2
+䄑	xuhu	0	xuh	0
 䄒	xwxx	1	xwxx	0
 䄓	xrdw	0	xrd	0
 䄔	xryu	0	xryu	0
@@ -3416,7 +3416,7 @@
 䅖	tjid	0	tjid	0
 䅗	ttbn	3	ttbn	2
 䅘	tfew	0	tfe	0
-䅙	tiuu	3	tiuu	2
+䅙	tikh	2	tikh	1
 䅚	tamf	2	tamf	2
 䅛	tiir	1	tiir	0
 䅜	ttih	0	ttih	0
@@ -3727,7 +3727,7 @@
 䊍	tyam	0	tyam	0
 䊎	aamf	0	aam	0
 䊏	aaah	3	aaah	2
-䊐	aiuu	2	aiuu	2
+䊐	aikm	0	aikm	0
 䊑	apui	0	apui	0
 䊒	arvm	0	arv	0
 䊓	aify	3	aif	0
@@ -3798,7 +3798,7 @@
 䋔	mjsy	1	mjsy	1
 䋕	rtms	1	rtms	1
 䋖	mcys	1	mcy	0
-䋗	mgis	0	mgis	0
+䋗	mgis	1	mgis	1
 䋘	msls	0	msl	0
 䋙	mges	0	mge	0
 䋚	mnys	1	mnys	0
@@ -3816,7 +3816,7 @@
 䋦	mtmm	0	mtmm	0
 䋧	mcgg	0	mcgg	0
 䋨	mqps	0	mqp	0
-䋩	mrue	0	mrue	0
+䋩	mrrs	0	mrr	0
 䋪	mvhk	0	mvh	0
 䋫	myvs	0	myv	0
 䋬	mdpx	0	mdp	0
@@ -3953,7 +3953,7 @@
 䍯	aumf	0	aum	0
 䍰	aijd	2	aijd	1
 䍱	awdw	1	awdw	1
-䍲	arue	0	arue	0
+䍲	arry	0	arr	0
 䍳	abbb	1	abbb	0
 䍴	atbn	0	atbn	0
 䍵	ayvy	0	ayv	0
@@ -4028,7 +4028,7 @@
 䎺	gtld	1	gtl	0
 䎻	gufi	1	guf	0
 䎼	gcpu	1	gcpu	0
-䎽	guir	2	guir	2
+䎽	guhe	1	guhe	1
 䎾	gwle	1	gwle	1
 䎿	gtah	1	gtah	1
 䏀	ghld	0	ghl	0
@@ -4105,7 +4105,7 @@
 䐇	uyir	0	uyi	0
 䐈	ujvr	0	ujv	0
 䐉	umit	1	umit	1
-䐊	uiuu	2	uiuu	2
+䐊	uikr	0	uikr	0
 䐋	uwnx	1	uwnx	0
 䐌	lcli	1	lcli	1
 䐍	ufor	0	ufor	0
@@ -4226,7 +4226,7 @@
 䒀	etrh	1	etrh	1
 䒁	enrb	0	enr	0
 䒂	evyh	0	evy	0
-䒃	etix	1	eti	0
+䒃	etix	0	eti	0
 䒄	exsi	1	exs	0
 䒅	eaim	0	eai	0
 䒆	eqit	0	eqit	0
@@ -4519,7 +4519,7 @@
 䖥	niim	1	niim	1
 䖦	ivii	0	ivii	0
 䖧	iisy	1	iisy	1
-䖨	ijui	1	ijui	1
+䖨	ijui	0	ijui	0
 䖩	ixbi	0	ixbi	0
 䖪	luii	2	luii	2
 䖫	iwdg	0	iwdg	0
@@ -4529,11 +4529,11 @@
 䖯	ffii	2	ffii	1
 䖰	ieyo	1	ieyo	1
 䖱	ikdw	2	ikdw	1
-䖲	iuir	3	iuir	3
+䖲	iuir	2	iuir	2
 䖳	iztt	2	iztt	2
 䖴	ievi	5	ievi	5
-䖵	iiii	16	iiii	16
-䖶	ijui	2	ijui	2
+䖵	ikp	1	ikp	1
+䖶	ijui	1	ijui	1
 䖷	iwjo	3	iwjo	3
 䖸	tiiw	5	tiiw	5
 䖹	ilsd	0	ilsd	0
@@ -4573,12 +4573,12 @@
 䗛	iryi	1	iryi	1
 䗜	iyit	2	iyit	2
 䗝	xiii	0	xiii	0
-䗞	diii	1	diii	1
+䗞	dikt	3	dikt	2
 䗟	ktyi	2	ktyi	2
 䗠	qvii	2	qvii	2
 䗡	ifsz	0	ifs	0
 䗢	itix	0	itix	0
-䗣	giii	2	giii	2
+䗣	gikg	1	gikg	1
 䗤	iqcy	1	iqcy	1
 䗥	iewl	1	iewl	0
 䗦	iysx	0	iysx	0
@@ -4601,26 +4601,26 @@
 䗷	iqix	2	iqix	2
 䗸	qmri	1	qmri	1
 䗹	igmx	3	igmx	3
-䗺	rbii	0	rbii	0
+䗺	rbik	1	rbik	1
 䗻	itcv	1	itcv	0
 䗼	itxi	2	itxi	2
 䗽	mrii	0	mrii	0
 䗾	iimz	1	iimz	1
 䗿	izxf	0	izxf	0
-䘀	rfii	1	rfi	0
+䘀	rfik	0	rfi	0
 䘁	fkri	0	fkri	0
 䘂	ifkl	2	ifkl	2
 䘃	ioft	1	ioft	1
-䘄	fiii	3	fiii	3
+䘄	fikv	0	fikv	0
 䘅	niui	0	niui	0
 䘆	izsx	0	izsx	0
-䘇	qiii	4	qiii	4
+䘇	qiik	7	qiik	7
 䘈	ijgb	0	ijgb	0
-䘉	diii	2	diii	2
+䘉	diik	2	diik	2
 䘊	itoz	0	ito	0
 䘋	iwwl	0	iwwl	0
 䘌	kgji	1	kgji	0
-䘍	giii	3	giii	3
+䘍	giik	3	giik	2
 䘎	iqmc	1	iqmc	1
 䘏	rvex	0	rvex	0
 䘐	rbzd	1	rbzd	1
@@ -4648,7 +4648,7 @@
 䘦	xcub	0	xcu	0
 䘧	xiyy	1	xiyy	0
 䘨	xqef	0	xqef	0
-䘩	xuir	3	xuir	3
+䘩	xuir	2	xuir	2
 䘪	xque	0	xqu	0
 䘫	biqy	3	biqy	3
 䘬	xkjz	0	xkjz	0
@@ -4668,7 +4668,7 @@
 䘺	xzfy	0	xzfy	0
 䘻	xqir	3	xqir	2
 䘼	xzym	0	xzy	0
-䘽	xrue	0	xrue	0
+䘽	xrry	1	xrr	0
 䘾	xziy	0	xzi	0
 䘿	xcvi	0	xcv	0
 䙀	xuur	1	xuur	0
@@ -4767,8 +4767,8 @@
 䚝	yqwf	1	yqwf	0
 䚞	yfew	0	yfe	0
 䚟	yidz	0	yid	0
-䚠	yiuu	3	yiuu	2
-䚡	yixx	4	yixx	4
+䚠	yikj	0	yikj	0
+䚡	yisj	0	yisj	0
 䚢	ygyj	1	ygyj	1
 䚣	yify	1	yify	0
 䚤	yiyj	4	yiyj	4
@@ -4847,7 +4847,7 @@
 䛭	qfao	1	qfao	0
 䛮	qypi	0	qyp	0
 䛯	qcgg	1	qcgg	1
-䛰	qiuu	2	qiuu	2
+䛰	qiky	2	qiky	1
 䛱	qixx	5	qixx	4
 䛲	qroj	0	qroj	0
 䛳	qjid	5	qjid	4
@@ -4931,7 +4931,7 @@
 䝁	aaxh	0	aaxh	0
 䝂	gyhd	0	gyh	0
 䝃	himz	1	himz	1
-䝄	hrrb	0	hrr	0
+䝄	hrrb	0	hrrb	0
 䝅	jftu	3	jftu	3
 䝆	yjuw	0	yjuw	0
 䝇	wuju	0	wuj	0
@@ -5006,7 +5006,7 @@
 䞌	otub	0	otub	0
 䞍	odir	2	odir	1
 䞎	oiir	1	oiir	1
-䞏	oixx	1	oixx	0
+䞏	oisb	0	oisb	0
 䞐	osib	0	osib	0
 䞑	ffgi	3	ffgi	3
 䞒	fusi	2	fusi	1
@@ -5078,7 +5078,7 @@
 䟔	ipbz	0	ipbz	0
 䟕	iniz	0	iniz	0
 䟖	iouz	0	iouz	0
-䟗	iuuz	1	iuuz	1
+䟗	iuuz	0	iuuz	0
 䟘	iquj	2	iquj	2
 䟙	ikbd	1	ikbd	1
 䟚	idqz	0	idq	0
@@ -5182,7 +5182,7 @@
 䠼	rwil	3	rwil	2
 䠽	rohd	0	roh	0
 䠾	rqwr	2	rqwr	2
-䠿	riso	0	ris	0
+䠿	riso	0	riso	0
 䡀	rqos	0	rqo	0
 䡁	rqis	1	rqis	1
 䡂	kvji	0	kvj	0
@@ -5209,7 +5209,7 @@
 䡗	fyki	2	fyki	2
 䡘	kuit	0	kuit	0
 䡙	kxli	1	kxl	0
-䡚	krue	1	krue	0
+䡚	krue	0	kru	0
 䡛	kkii	0	kkii	0
 䡜	kfwf	0	kfw	0
 䡝	kzym	0	kzy	0
@@ -5293,7 +5293,7 @@
 䢫	vjix	1	vjix	0
 䢬	exyx	0	exyx	0
 䢭	aqyx	0	aqyx	0
-䢮	hixz	0	hixz	0
+䢮	hixz	0	hix	0
 䢯	aayx	0	aayx	0
 䢰	nrxz	1	nrx	0
 䢱	foox	0	foox	0
@@ -5400,7 +5400,7 @@
 䤖	higp	0	higp	0
 䤗	qifh	1	qifh	1
 䤘	hwwl	0	hwwl	0
-䤙	hmii	0	hmii	0
+䤙	hmik	0	hmik	0
 䤚	uilr	0	uil	0
 䤛	wvjj	0	wvj	0
 䤜	wusy	0	wus	0
@@ -5487,7 +5487,7 @@
 䥭	hhwj	2	hhwj	1
 䥮	whgv	0	whg	0
 䥯	wonu	0	won	0
-䥰	wqii	1	wqii	0
+䥰	wqik	0	wqik	0
 䥱	wzrz	0	wzr	0
 䥲	wkiy	0	wkiy	0
 䥳	wjly	0	wjly	0
@@ -5542,7 +5542,7 @@
 䦤	qbbb	0	qbbb	0
 䦥	qhhm	2	qhhm	1
 䦦	qwjm	2	qwjm	2
-䦧	qrue	2	qrue	1
+䦧	qrrm	2	qrrm	2
 䦨	qhsy	0	qhs	0
 䦩	qiyv	2	qiyv	2
 䦪	qium	2	qium	2
@@ -5667,7 +5667,7 @@
 䨡	hvzv	1	hvzv	0
 䨢	hgmo	2	hgmo	1
 䨣	hggy	2	hggy	2
-䨤	hixz	1	hixz	1
+䨤	hixz	1	hixz	0
 䨥	hrby	1	hrby	1
 䨦	hqqf	3	hqqf	3
 䨧	hqwl	0	hqwl	0
@@ -5841,7 +5841,7 @@
 䫏	gjyq	0	gjyq	0
 䫐	hhjy	0	hhjy	0
 䫑	jhjy	0	jhjy	0
-䫒	uijy	0	uijy	0
+䫒	ujyh	0	ujyh	0
 䫓	qjyp	1	qjyp	1
 䫔	sbjj	0	sbjj	0
 䫕	qjyd	0	qjyd	0
@@ -6039,7 +6039,7 @@
 䮕	mbbb	1	mbbb	0
 䮖	miir	0	miir	0
 䮗	mojd	0	moj	0
-䮘	mrue	1	mrue	1
+䮘	mrrm	0	mrrm	0
 䮙	mkis	1	mkis	1
 䮚	mfwy	1	mfwy	0
 䮛	mvrh	1	mvr	0
@@ -6101,7 +6101,7 @@
 䯓	oiff	0	oif	0
 䯔	oizt	1	oizt	1
 䯕	oitb	0	oitb	0
-䯖	oixl	0	oixl	0
+䯖	oixl	0	oix	0
 䯗	oiuf	0	oiuf	0
 䯘	oizj	0	oizj	0
 䯙	oihf	0	oihf	0
@@ -6147,7 +6147,7 @@
 䰁	fcpu	0	fcpu	0
 䰂	fehm	0	fehm	0
 䰃	fgly	1	fgly	1
-䰄	fixx	3	fixx	3
+䰄	fisb	1	fisb	1
 䰅	fjyb	2	fjyb	2
 䰆	fnhm	1	fnhm	0
 䰇	ffvb	0	ffvb	0
@@ -6214,7 +6214,7 @@
 䱄	yegy	0	yegy	0
 䱅	ydmy	0	ydmy	0
 䱆	ybvz	1	ybv	0
-䱇	yisy	0	yisy	0
+䱇	yisy	1	yisy	1
 䱈	yduy	0	yduy	0
 䱉	yiqy	2	yiqy	2
 䱊	yamy	0	yam	0
@@ -6505,7 +6505,7 @@
 䵧	fkoh	1	fkoh	1
 䵨	ojeu	2	ojeu	1
 䵩	tloh	0	tloh	0
-䵪	oiuu	0	oiuu	0
+䵪	oikh	0	oikh	0
 䵫	zymo	0	zymo	0
 䵬	ooir	1	ooir	0
 䵭	ofvh	0	ofvh	0
@@ -6783,7 +6783,7 @@
 亶	qois	0	qois	0
 亷	qclw	0	qclw	0
 亸	qvad	0	qva	0
-亹	qrui	0	qrui	0
+亹	qrui	0	qru	0
 人	wrf	0	w	0
 亻	rrf	0	rrf	0
 亼	woi	0	woi	0
@@ -6929,7 +6929,7 @@
 佈	rjoj	1	rjoj	0
 佉	rfqr	0	rfq	0
 佊	rbpr	0	rbp	0
-佋	rbik	1	rbik	1
+佋	rbik	2	rbik	2
 佌	rlub	0	rlub	0
 位	rqlr	0	rql	0
 低	rudr	0	rud	0
@@ -7012,7 +7012,7 @@
 供	rgwb	0	rgw	0
 侜	revr	1	revr	1
 依	rqyr	1	rqyr	0
-侞	rbik	2	rbik	2
+侞	rbik	3	rbik	3
 侟	rjlv	0	rjlv	0
 侠	rkjr	0	rkj	0
 価	rhxr	1	rhx	0
@@ -7152,14 +7152,14 @@
 倧	rzdu	0	rzdu	0
 倨	rcgg	0	rcgg	0
 倩	rdir	0	rdi	0
-倪	rrue	0	rru	0
+倪	rrrr	0	rrrr	0
 倫	rwlr	2	rwlr	1
 倬	rlif	0	rli	0
 倭	rtbn	0	rtbn	0
 倮	rigr	0	rig	0
 倯	rhwn	0	rhwn	0
 倰	rfwy	0	rfw	0
-倱	riuu	1	riuu	1
+倱	rikr	1	rikr	1
 倲	rhsy	0	rhs	0
 倳	rhur	1	rhur	0
 倴	rjfj	0	rjfj	0
@@ -7224,7 +7224,7 @@
 偯	rqik	3	rqik	3
 偰	rsbj	0	rsbj	0
 偱	refi	0	refi	0
-偲	rixx	0	rix	0
+偲	risr	0	ris	0
 偳	roje	0	roje	0
 側	rold	1	rol	0
 偵	rlob	1	rlo	0
@@ -7321,7 +7321,7 @@
 僐	ragi	0	rag	0
 僑	rtii	0	rtii	0
 僒	rzci	1	rzci	1
-僓	riso	1	riso	0
+僓	riso	1	riso	1
 僔	rahh	0	rahh	0
 僕	rlao	0	rla	0
 僖	rfxr	0	rfx	0
@@ -7400,7 +7400,7 @@
 償	rpob	0	rpob	0
 儠	rmim	1	rmim	1
 儡	riii	1	riii	1
-儢	rlix	0	rlix	0
+儢	rlis	0	rlis	0
 儣	rqgh	0	rqgh	0
 儤	rigp	0	rigp	0
 儥	rfoo	0	rfo	0
@@ -7448,7 +7448,8 @@
 兏	elue	0	elue	0
 児	liue	1	liue	1
 兑	aiue	0	aiu	0
-兒	ruej	0	rue	0
+兒	rrr	0	rrr	0
+兒	rri	0	rri	0
 兓	kkjj	1	kkj	0
 兔	yzdm	0	yzd	0
 兕	ouea	0	oue	0
@@ -7777,7 +7778,7 @@
 劖	uiul	0	uiul	0
 劗	tutl	1	tutl	1
 劘	qlld	0	qll	0
-劙	miil	0	miil	0
+劙	mild	2	mild	1
 劚	clzl	1	clzl	1
 力	bli	0	bl	0
 劜	bmwl	0	bmw	0
@@ -7864,11 +7865,11 @@
 勭	qibl	3	qibl	3
 勮	ljbl	0	ljb	0
 勯	qoib	0	qoib	0
-勰	bbbx	1	bbbx	1
+勰	bbbi	3	bbbi	3
 勱	gibl	0	gib	0
 勲	tbzh	0	tbz	0
 勳	tblx	0	tblx	0
-勴	lixb	0	lixb	0
+勴	libl	1	libl	1
 勵	jgib	0	jgib	0
 勶	eqib	0	eqib	0
 勷	qidb	2	qidb	2
@@ -8133,7 +8134,7 @@
 史	iui	0	iui	0
 右	jikz	0	jik	0
 叴	uikj	2	uikj	2
-叵	kikk	0	kik	0
+叵	kikk	0	kikk	0
 叶	ifuk	0	ifuk	0
 号	ikkk	0	ik	0
 司	csi	0	cs	0
@@ -8178,7 +8179,7 @@
 吞	dikt	0	dik	0
 吟	iwjk	0	iwjk	0
 吠	ijqk	0	ijqk	0
-吡	iuub	2	iuub	1
+吡	iuub	1	iuub	1
 吢	xikx	0	xikx	0
 吣	ixxk	0	ixxk	0
 吤	iwjk	1	iwjk	1
@@ -8321,7 +8322,7 @@
 咭	ifjk	2	ifjk	2
 咮	itvk	1	itvk	0
 咯	iygk	0	iygk	0
-咰	iuir	4	iuir	4
+咰	iuir	3	iuir	3
 咱	irzk	0	irz	0
 咲	igjd	1	igjd	1
 咳	iqhk	0	iqh	0
@@ -8357,7 +8358,7 @@
 哑	igyk	0	igyk	0
 哒	ijxz	0	ijxz	0
 哓	ikjw	4	ikjw	3
-哔	iuuf	0	iuuf	0
+哔	iuuf	0	iuu	0
 哕	ioyx	1	ioyx	0
 哖	itnk	1	itnk	0
 哗	iruf	1	iruf	0
@@ -8451,7 +8452,7 @@
 唯	irvk	0	irv	0
 唰	icol	1	ico	0
 唱	iiir	0	iii	0
-唲	irue	1	irue	1
+唲	irrk	0	irrk	0
 唳	ixjq	1	ixj	0
 唴	iaqk	0	iaqk	0
 唵	ijid	1	ijid	1
@@ -8680,7 +8681,7 @@
 嘔	ikip	1	ikip	1
 嘕	ifsz	1	ifsz	0
 嘖	idob	1	idob	0
-嘗	puir	2	puir	2
+嘗	puir	1	puir	1
 嘘	illy	0	ill	0
 嘙	izbb	0	izbb	0
 嘚	ieiz	0	iei	0
@@ -8722,7 +8723,7 @@
 嘾	ihif	2	ihif	2
 嘿	iohk	0	ioh	0
 噀	iccw	0	iccw	0
-噁	islx	0	islx	0
+噁	islx	1	islx	1
 噂	iahh	1	iahh	0
 噃	itai	5	itai	5
 噄	isbm	1	isbm	1
@@ -9174,7 +9175,7 @@
 堁	figt	0	figt	0
 堂	pftu	0	pft	0
 堃	qqft	0	qqft	0
-堄	frue	0	frue	0
+堄	frrt	1	frrt	1
 堅	gbft	1	gbft	0
 堆	frvt	0	frvt	0
 堇	gseg	0	gse	0
@@ -9188,7 +9189,7 @@
 堏	hqft	1	hqft	0
 堐	fjff	0	fjf	0
 堑	keft	0	kef	0
-堒	fiuu	1	fiuu	1
+堒	fikt	0	fikt	0
 堓	fojd	2	fojd	2
 堔	fxhm	2	fxhm	2
 堕	vjif	1	vjif	1
@@ -9669,7 +9670,7 @@
 姭	bbbb	6	bbbb	6
 姮	bhgn	0	bhg	0
 姯	bpjw	0	bpj	0
-姰	buir	1	buir	0
+姰	buir	0	buir	0
 姱	bjsk	0	bjs	0
 姲	bzbn	1	bzb	0
 姳	bymn	2	bymn	1
@@ -9772,10 +9773,10 @@
 婔	blfn	1	blf	0
 婕	bsml	0	bs	0
 婖	bdpx	0	bdp	0
-婗	brue	0	brue	0
+婗	brrn	0	brr	0
 婘	bamf	0	bam	0
 婙	byvn	0	byv	0
-婚	buir	0	bu	0
+婚	buhn	0	bu	0
 婛	bqjn	0	bqj	0
 婜	gbbn	1	gbbn	1
 婝	bzfy	0	bzf	0
@@ -9792,7 +9793,7 @@
 婨	bwln	1	bwln	0
 婩	bojd	0	bojd	0
 婪	hhbn	0	hhbn	0
-婫	biuu	0	biu	0
+婫	bikn	1	bikn	0
 婬	betr	0	betr	0
 婭	bsll	0	bsl	0
 婮	bcgg	2	bcgg	2
@@ -9849,7 +9850,7 @@
 媡	bhjn	0	bhjn	0
 媢	biim	0	biim	0
 媣	bzuh	0	bzu	0
-媤	bixx	2	bixx	2
+媤	bisn	0	bisn	0
 媥	bxic	0	bxi	0
 媦	biwn	0	biwn	0
 媧	boik	0	boik	0
@@ -9958,7 +9959,7 @@
 嬎	bytu	1	byt	0
 嬏	btai	0	bta	0
 嬐	bwiw	0	bwiw	0
-嬑	bqix	2	bqix	2
+嬑	bqix	1	bqix	1
 嬒	bwoi	0	bwo	0
 嬓	brqt	0	brqt	0
 嬔	byzt	1	byzt	1
@@ -10012,7 +10013,7 @@
 孄	bqhj	0	bqhj	0
 孅	bwwl	0	bww	0
 孆	boob	1	boob	0
-孇	brrb	0	brr	0
+孇	brrb	0	brrb	0
 孈	bori	0	bori	0
 孉	bggn	3	bggn	2
 孊	bqlf	0	bqlf	0
@@ -10102,7 +10103,7 @@
 实	zztm	0	zz	0
 実	zspm	0	zspm	0
 宠	zjlm	0	zjl	0
-审	zium	0	zium	0
+审	zium	0	ziu	0
 客	zygm	0	zyg	0
 宣	zxr	0	zxr	0
 室	zkvm	0	zkv	0
@@ -10186,7 +10187,7 @@
 寲	zutv	0	zutv	0
 寳	zduo	0	zduo	0
 寴	zqso	0	zqs	0
-寵	zqis	2	zqis	2
+寵	zqis	3	zqis	3
 寶	zdto	1	zdto	1
 寷	zosh	0	zosh	0
 寸	hcp	0	hcp	0
@@ -10230,7 +10231,7 @@
 尞	jyc	0	jyc	0
 尟	ifpu	0	ifp	0
 尠	gmpu	2	gmpu	1
-尡	pjiu	1	pjiu	1
+尡	pjik	2	pjik	2
 尢	jyh	0	jyh	0
 尣	wueb	0	wue	0
 尤	jyb	0	jyb	0
@@ -10470,9 +10471,9 @@
 崌	ocgg	0	ocg	0
 崍	ofew	0	ofe	0
 崎	ojhk	0	ojh	0
-崏	ouir	2	ouir	2
-崐	oiuu	1	oiuu	1
-崑	oiuu	2	oiuu	2
+崏	ouhu	0	ouhu	0
+崐	oiku	1	oiku	0
+崑	oiku	2	oiku	1
 崒	oqwf	1	oqw	0
 崓	oigg	4	oigg	3
 崔	orvu	0	orv	0
@@ -10516,9 +10517,9 @@
 崺	oqvy	0	oqvy	0
 崻	oefh	0	oefh	0
 崼	oify	0	oify	0
-崽	oixx	0	oix	0
+崽	oisu	0	ois	0
 崾	ohbn	0	ohb	0
-崿	oisk	0	ois	0
+崿	oisk	0	oisk	0
 嵀	ohqv	2	ohqv	2
 嵁	ogmo	0	ogmo	0
 嵂	oecy	1	oecy	0
@@ -11194,7 +11195,7 @@
 忝	dpxt	0	dpx	0
 忞	qxxw	2	qxxw	1
 忟	pqwx	2	pqwx	1
-忠	ixxv	0	ixxv	0
+忠	ixxv	0	ixx	0
 忡	pivx	0	piv	0
 忢	hxxw	0	hxxw	0
 忣	pyjx	1	pyjx	1
@@ -11255,7 +11256,7 @@
 怚	piqx	0	piqx	0
 怛	pisy	0	pis	0
 怜	pwlx	0	pwl	0
-思	ixxt	0	ixx	0
+思	isi	0	isi	0
 怞	piyx	2	piyx	2
 怟	pudx	0	pud	0
 怠	nixx	0	nix	0
@@ -11299,7 +11300,7 @@
 恆	phmz	0	phmz	0
 恇	pkdw	0	pkd	0
 恈	pntn	0	pnt	0
-恉	puir	3	puir	3
+恉	puir	2	puir	2
 恊	pbbb	2	pbbb	1
 恋	qxxy	0	qxxy	0
 恌	pevx	0	pev	0
@@ -11396,7 +11397,7 @@
 悧	ptld	0	ptl	0
 您	rupx	1	rup	0
 悩	ppwv	0	ppw	0
-悪	fixx	4	fixx	4
+悪	fixx	3	fixx	3
 悫	fxux	0	fxux	0
 悬	inxx	0	inx	0
 悭	plbf	0	plb	0
@@ -11411,7 +11412,7 @@
 悶	qxxm	2	qxxm	2
 悷	pxjq	0	pxj	0
 悸	ptvz	1	ptv	0
-悹	zixx	4	zixx	3
+悹	zixx	3	zixx	2
 悺	pziy	0	pzi	0
 悻	pfao	0	pfa	0
 悼	plif	0	pl	0
@@ -11421,7 +11422,7 @@
 惀	pwlx	1	pwlx	0
 惁	hexx	1	hex	0
 惂	purj	0	pur	0
-惃	piuu	0	piuu	0
+惃	pikx	0	pikx	0
 惄	lpbx	0	lpbx	0
 情	pdir	0	pd	0
 惆	pufi	0	puf	0
@@ -11436,7 +11437,7 @@
 惏	phhm	0	phhm	0
 惐	pkis	0	pki	0
 惑	kisx	0	kis	0
-惒	tixx	2	tixx	2
+惒	tixx	1	tixx	1
 惓	pamf	0	pam	0
 惔	paah	0	paa	0
 惕	piyw	0	piy	0
@@ -11445,7 +11446,7 @@
 惘	pugq	0	pug	0
 惙	pbbb	1	pbb	0
 惚	pyxx	0	pyx	0
-惛	puir	1	puir	1
+惛	puhx	0	puh	0
 惜	pgxx	0	pgx	0
 惝	ppui	0	ppu	0
 惞	peyq	0	pey	0
@@ -11461,7 +11462,7 @@
 惨	pncx	0	pnc	0
 惩	efxx	0	efx	0
 惪	jxxv	0	jxxv	0
-惫	yixx	2	yixx	2
+惫	yixx	1	yixx	1
 惬	pkkj	0	pk	0
 惭	pkej	0	pke	0
 惮	padx	0	pad	0
@@ -11516,7 +11517,7 @@
 感	jsix	0	js	0
 愠	piom	0	pio	0
 愡	pyxx	1	pyxx	0
-愢	pixx	3	pixx	3
+愢	pisx	0	pisx	0
 愣	poqf	0	poq	0
 愤	pfgo	0	pfg	0
 愥	pgiy	0	pgiy	0
@@ -11592,7 +11593,7 @@
 慫	ewwx	1	ewwx	1
 慬	pgse	0	pgs	0
 慭	kjxx	2	kjx	0
-慮	lixx	2	lixx	1
+慮	lish	1	lis	0
 慯	ptiy	1	ptiy	1
 慰	cdhx	0	cdhx	0
 慱	psih	0	psih	0
@@ -11664,7 +11665,7 @@
 憳	pcfh	0	pcfh	0
 憴	plmc	0	plm	0
 憵	ciqx	3	ciqx	2
-憶	pqix	1	pqix	1
+憶	pqix	0	pqix	0
 憷	phhv	0	phh	0
 憸	pwiw	1	pwiw	1
 憹	piji	0	piji	0
@@ -12100,7 +12101,7 @@
 捧	fsdo	0	fsd	0
 捨	fwdi	1	fwdi	1
 捩	fxjq	1	fxj	0
-捪	fuir	3	fuir	3
+捪	fuhu	3	fuhu	3
 捫	fqmu	1	fqmu	1
 捬	fqrh	2	fqrh	2
 捭	frbu	1	frbu	0
@@ -12135,7 +12136,7 @@
 掊	fqpu	0	fqpu	0
 掋	fqud	0	fqud	0
 掌	ptuu	0	ptuu	0
-掍	fiuu	2	fiuu	2
+掍	fiku	1	fiku	0
 掎	fjhk	1	fjhk	0
 掏	futf	0	fut	0
 掐	furj	1	fur	0
@@ -12150,8 +12151,8 @@
 掙	feml	0	feml	0
 掚	fsow	0	fso	0
 掛	fffp	1	fffp	1
-掜	frue	1	frue	1
-掝	fkis	2	fkis	2
+掜	frru	1	frru	1
+掝	fkis	3	fkis	3
 掞	faah	0	faa	0
 掟	fzfy	1	fzfy	1
 掠	fqju	0	fqj	0
@@ -12172,7 +12173,7 @@
 掯	flir	1	flir	1
 掰	twbd	0	twbd	0
 掱	tttu	6	tttu	6
-掲	fiuu	3	fiuu	3
+掲	fiuu	1	fiuu	1
 掳	flbl	0	flbl	0
 掴	fidy	0	fidy	0
 掵	fwiv	0	fwiv	0
@@ -12198,7 +12199,7 @@
 揉	fnhm	0	fnh	0
 揊	fsii	1	fsii	1
 揋	fiko	1	fiko	1
-揌	fixx	5	fixx	5
+揌	fisu	0	fisu	0
 揍	fsdt	0	fsdt	0
 揎	fzxu	0	fzx	0
 描	fgit	1	fgit	0
@@ -12440,7 +12441,7 @@
 撻	ffax	3	ffax	2
 撼	fjsx	0	fjsx	0
 撽	frqt	3	frqt	2
-撾	foix	1	foix	1
+撾	foix	0	foix	0
 撿	fwiw	0	fwiw	0
 擀	fgsd	0	fgsd	0
 擁	fqmr	1	fqmr	1
@@ -12508,9 +12509,9 @@
 擿	fqax	2	fqax	2
 攀	hhwt	0	hhwt	0
 攁	faxl	0	faxl	0
-攂	fiii	4	fiii	4
+攂	fiii	3	fiii	3
 攃	fgyd	0	fgyd	0
-攄	flix	0	flix	0
+攄	flis	5	flis	5
 攅	fddo	0	fddo	0
 攆	fddk	1	fddk	0
 攇	fzsx	0	fzsx	0
@@ -12551,7 +12552,7 @@
 攪	frwo	0	frwo	0
 攫	firb	2	firb	1
 攬	fgto	3	fgto	2
-攭	fmii	1	fmii	1
+攭	fmik	1	fmik	1
 攮	fhiy	1	fhiy	1
 支	hvi	0	hvi	0
 攰	hblv	0	hblv	0
@@ -12656,7 +12657,7 @@
 斓	qqhj	0	qqhj	0
 斔	qiry	3	qiry	3
 斕	qqhj	1	qqhj	1
-斖	qrui	1	qrui	1
+斖	qrui	1	qrui	0
 斗	zdb	0	zdb	0
 斘	yzdx	1	yzdx	1
 料	azdm	0	azd	0
@@ -12769,7 +12770,7 @@
 昃	ijwr	2	ijwr	2
 昄	ieby	1	ieby	0
 昅	iyjr	1	iyjr	1
-昆	iuub	0	iuu	0
+昆	ikp	0	ikp	0
 昇	itur	2	itur	1
 昈	ixhr	0	ixh	0
 昉	iqfr	0	iqf	0
@@ -12778,7 +12779,7 @@
 昌	iirr	0	iirr	0
 昍	iirr	4	iirr	4
 明	iurr	0	iu	0
-昏	uiru	0	uiru	0
+昏	uhp	0	uhp	0
 昐	iwbd	2	iwbd	2
 昑	iwjr	1	iwjr	1
 昒	iywr	3	iywr	2
@@ -12868,7 +12869,7 @@
 晦	itmm	0	itmm	0
 晧	itik	7	itik	7
 晨	ijir	0	ijir	0
-晩	iuou	1	iuou	1
+晩	iuou	0	iuou	0
 晪	ilcw	0	ilc	0
 晫	ilif	2	ilif	2
 晬	iqwf	1	iqwf	1
@@ -12877,7 +12878,7 @@
 景	iqjr	0	iqj	0
 晰	ihej	0	ihe	0
 晱	iaah	1	iaah	0
-晲	irue	2	irue	2
+晲	irrr	0	irrr	0
 晳	heir	0	heir	0
 晴	idir	0	idi	0
 晵	xtir	1	xtir	1
@@ -12988,7 +12989,7 @@
 曞	ijgi	0	ijgi	0
 曟	iiij	4	iiij	4
 曠	iqgh	2	iqgh	2
-曡	iiii	17	iiii	17
+曡	iiii	16	iiii	16
 曢	izjy	0	izj	0
 曣	igiz	3	igiz	3
 曤	ihrv	2	ihrv	1
@@ -13266,7 +13267,7 @@
 柴	luhm	0	luhm	0
 柵	huls	1	hul	0
 柶	hosm	0	hos	0
-柷	hiue	0	hiue	0
+柷	hiue	0	hiu	0
 柸	hjsy	0	hjsy	0
 柹	hyzm	0	hyzm	0
 柺	hibl	2	hibl	1
@@ -13385,7 +13386,7 @@
 桫	hzpu	0	hzp	0
 桬	zphm	0	zph	0
 桭	hjim	0	hjim	0
-桮	hjik	0	hjik	0
+桮	hjik	1	hjik	1
 桯	hidw	3	hidw	3
 桰	huik	1	huik	1
 桱	hsmf	0	hsmf	0
@@ -13480,14 +13481,14 @@
 棊	ghmq	0	ghmq	0
 棋	hgqm	0	hgq	0
 棌	hehm	2	hehm	2
-棍	hiuu	1	hiu	0
+棍	hikm	1	hikm	1
 棎	hxhm	1	hxhm	0
 棏	hidz	0	hidz	0
 棐	lhmf	0	lhm	0
 棑	hlfm	0	hlfm	0
 棒	hsdo	0	hs	0
 棓	hqpm	0	hqpm	0
-棔	huir	3	huir	3
+棔	huhm	0	huh	0
 棕	hzdu	0	hzd	0
 棖	hfno	0	hfn	0
 棗	fuez	3	fuez	3
@@ -13530,7 +13531,7 @@
 棼	hhwb	0	hhwb	0
 棽	hhwj	1	hhwj	0
 棾	hhxu	0	hhxu	0
-棿	hrue	2	hrue	2
+棿	hrrm	0	hrrm	0
 椀	hzym	2	hzym	1
 椁	hqvz	5	hqvz	5
 椂	hcpu	0	hcpu	0
@@ -13613,7 +13614,7 @@
 楏	hjff	0	hjf	0
 楐	hiwj	0	hiwj	0
 楑	hndt	1	hndt	0
-楒	hixx	1	hix	0
+楒	hism	0	hism	0
 楓	hyfm	2	hyfm	1
 楔	hsbj	0	hsb	0
 楕	hjir	2	hjir	2
@@ -13746,7 +13747,7 @@
 槔	hrjf	1	hrjf	1
 槕	hlih	0	hlih	0
 槖	fxjh	1	fxjh	1
-槗	hjii	2	hjii	2
+槗	hjii	1	hjii	1
 様	hapu	0	hap	0
 槙	hjwb	0	hjwb	0
 槚	hhob	0	hhob	0
@@ -13776,7 +13777,7 @@
 槲	hyzd	1	hyz	0
 槳	vyhh	1	vyhh	1
 槴	hxiv	0	hxiv	0
-槵	hixx	2	hixx	0
+槵	hixx	1	hixx	0
 槶	hiks	0	hiks	0
 槷	fwfh	0	fwfh	0
 槸	hfwy	1	hfwy	0
@@ -13850,7 +13851,7 @@
 樼	hcvv	0	hcvv	0
 樽	hahh	0	hah	0
 樾	hflj	0	hfl	0
-樿	hiis	0	hiis	0
+樿	hiis	1	hiis	1
 橀	hqro	3	hqro	2
 橁	htui	0	htui	0
 橂	hahj	0	hahj	0
@@ -14001,7 +14002,7 @@
 櫓	hyir	1	hyir	1
 櫔	hjgi	0	hjgi	0
 櫕	hddo	0	hdd	0
-櫖	hlix	0	hlix	0
+櫖	hlis	0	hlis	0
 櫗	hgoz	0	hgoz	0
 櫘	hssx	0	hssx	0
 櫙	hgki	1	hgk	0
@@ -14049,7 +14050,7 @@
 欃	huiz	0	huiz	0
 欄	hqhj	0	hqhj	0
 欅	hrst	0	hrst	0
-欆	hrrb	1	hrrb	0
+欆	hrrb	1	hrrb	1
 欇	hggg	2	hggg	2
 欈	hori	0	hori	0
 欉	hlab	1	hlab	1
@@ -14069,7 +14070,7 @@
 欗	hgqh	0	hgqh	0
 欘	hcli	1	hcli	1
 欙	hiim	2	hiim	2
-欚	hmii	1	hmii	1
+欚	hmik	1	hmik	1
 欛	hhgu	1	hhgu	1
 欜	hhiy	1	hhiy	1
 欝	hhwh	1	hhwh	1
@@ -14196,7 +14197,7 @@
 殖	jjvd	0	jjv	0
 殗	jjid	1	jjid	1
 殘	jkkg	0	jkkg	0
-殙	juir	3	juir	3
+殙	juhd	0	juhd	0
 殚	jadd	0	jad	0
 殛	jvis	1	jvis	1
 殜	jgyd	0	jgyd	0
@@ -14258,8 +14259,8 @@
 比	uubb	0	uu	0
 毕	uufu	0	uuf	0
 毖	uuxb	0	uux	0
-毗	iuub	1	iuub	0
-毘	iuub	5	iuub	4
+毗	iuub	0	iuub	0
+毘	iuub	4	iuub	4
 毙	uuju	0	uuju	0
 毚	uiuz	0	uiuz	0
 毛	tmk	0	tmk	0
@@ -14291,7 +14292,7 @@
 毵	ntmc	0	ntmc	0
 毶	tncm	0	tncm	0
 毷	iitm	0	iitm	0
-毸	tixx	3	tixx	3
+毸	tism	0	tism	0
 毹	wilt	0	wilt	0
 毺	twil	1	twil	1
 毻	jitm	0	jitm	0
@@ -14687,7 +14688,7 @@
 涁	zheu	0	zheu	0
 涂	zwdw	0	zwd	0
 涃	zihm	4	zihm	3
-涄	zikk	0	zik	0
+涄	zikk	0	zikk	0
 涅	zift	0	zif	0
 涆	zidg	0	zidg	0
 涇	zsmf	1	zsmf	1
@@ -14744,7 +14745,7 @@
 涺	zcgg	1	zcgg	1
 涻	zwdi	1	zwdi	1
 涼	zqju	2	zqju	1
-涽	zuir	1	zuir	1
+涽	zuhu	0	zuhu	0
 涾	zoir	1	zoir	0
 涿	zjzd	0	zjz	0
 淀	zzfy	0	zzf	0
@@ -14782,7 +14783,7 @@
 淠	zijq	0	zijq	0
 淡	zaah	0	za	0
 淢	zkis	0	zkis	0
-淣	zrue	1	zrue	1
+淣	zrru	2	zrru	2
 淤	zqwz	0	zqwz	0
 淥	zmpu	0	zmp	0
 淦	zwju	0	zwj	0
@@ -14802,7 +14803,7 @@
 淴	zyxx	2	zyxx	2
 淵	zwlm	0	zwlm	0
 淶	zfew	0	zfew	0
-混	ziuu	0	ziu	0
+混	ziku	0	zik	0
 淸	zdul	0	zdul	0
 淹	zjid	1	zji	0
 淺	zkkg	0	zkkg	0
@@ -14818,7 +14819,7 @@
 渄	zlfu	0	zlf	0
 清	zdir	0	zd	0
 渆	zgjl	0	zgjl	0
-渇	ziuu	3	ziuu	2
+渇	ziuu	2	ziuu	2
 済	zqws	1	zqws	1
 渉	zlpu	0	zlpu	0
 渊	zwam	0	zwa	0
@@ -14863,7 +14864,7 @@
 渱	zifg	2	zifg	2
 渲	zzxu	0	zzx	0
 渳	zcge	1	zcge	1
-渴	zium	1	zium	1
+渴	zium	1	zium	0
 渵	zgit	1	zgit	1
 渶	zgiy	0	zgiy	0
 渷	zqwu	3	zqwu	3
@@ -15140,7 +15141,7 @@
 潆	zgms	0	zgms	0
 潇	zgcs	0	zgc	0
 潈	zoro	0	zoro	0
-潉	zoiu	0	zoiu	0
+潉	zoik	2	zoik	2
 潊	zwdh	0	zwdh	0
 潋	zwzt	1	zwz	0
 潌	zzkv	0	zzkv	0
@@ -15253,7 +15254,7 @@
 澷	zioq	0	zioq	0
 澸	zjsx	0	zjsx	0
 澹	zuwq	0	zuw	0
-澺	zqix	1	zqix	1
+澺	zqix	0	zqix	0
 澻	zgrx	1	zgrx	0
 澼	zciq	0	zciq	0
 澽	zlju	1	zlj	0
@@ -15310,7 +15311,7 @@
 濰	zmrv	1	zmr	0
 濱	zzso	0	zzso	0
 濲	zfhm	0	zfhm	0
-濳	ztui	2	ztui	2
+濳	ztui	1	ztui	1
 濴	zaao	0	zaao	0
 濵	zzvo	0	zzv	0
 濶	zqtu	5	zqtu	4
@@ -15321,7 +15322,7 @@
 濻	zvio	1	zvio	1
 濼	zrmh	0	zrm	0
 濽	zddo	1	zddo	1
-濾	zlix	1	zlix	1
+濾	zlis	0	zlis	0
 濿	zjgi	2	zjgi	2
 瀀	zjly	1	zjly	1
 瀁	zaxl	0	zaxl	0
@@ -15362,7 +15363,7 @@
 瀤	zqoz	0	zqoz	0
 瀥	znqg	0	znqg	0
 瀦	zjfv	2	zjfv	2
-瀧	zqis	3	zqis	3
+瀧	zqis	4	zqis	4
 瀨	zhuo	1	zhuo	0
 瀩	ztuj	1	ztuj	1
 瀪	tmto	0	tmto	0
@@ -15414,7 +15415,7 @@
 灘	zgir	1	zgir	1
 灙	zpoh	0	zpoh	0
 灚	zrwo	0	zrwo	0
-灛	zqis	4	zqis	4
+灛	zqis	5	zqis	5
 灜	zqob	0	zqob	0
 灝	ziqj	2	ziqj	2
 灞	zhgu	0	zhg	0
@@ -15609,8 +15610,8 @@
 焙	aqph	0	aqp	0
 焚	hhah	0	hha	0
 焛	qahm	0	qahm	0
-焜	aiuu	1	aiuu	1
-焝	auir	2	auir	2
+焜	aikh	0	aikh	0
+焝	auhh	1	auh	0
 焞	aqvz	1	aqvz	1
 焟	agxh	1	agx	0
 焠	aqwf	1	aqwf	0
@@ -15761,7 +15762,7 @@
 熱	fwfz	0	fwfz	0
 熲	uajy	0	uajy	0
 熳	aimh	0	aimh	0
-熴	aoiu	0	aoiu	0
+熴	aoik	1	aoik	0
 熵	aquh	0	aqu	0
 熶	aigb	0	aigb	0
 熷	aazh	1	aazh	0
@@ -15845,7 +15846,7 @@
 爅	aoft	0	aoft	0
 爆	aigp	0	aig	0
 爇	gfwz	0	gfwz	0
-爈	alix	0	alix	0
+爈	alis	0	alis	0
 爉	amim	0	amim	0
 爊	aqzh	0	aqz	0
 爋	atbl	1	atbl	1
@@ -15867,7 +15868,7 @@
 爛	aqhj	0	aqhj	0
 爜	alab	0	ala	0
 爝	aeoh	0	aeo	0
-爞	aiii	1	aiii	1
+爞	aiik	2	aiik	2
 爟	aggh	0	agg	0
 爠	airv	0	air	0
 爡	agii	1	agii	1
@@ -15912,7 +15913,7 @@
 片	rpm	0	rp	0
 版	reby	0	re	0
 牉	rabp	1	rabp	1
-牊	rbik	3	rbik	3
+牊	rbik	4	rbik	4
 牋	rkkg	2	rkkg	2
 牌	rrbp	0	rr	0
 牍	rfmz	0	rfm	0
@@ -16056,7 +16057,7 @@
 狗	yyjq	0	yyj	0
 狘	yjwq	0	yjwq	0
 狙	yiqq	0	yiq	0
-狚	yisy	1	yisy	1
+狚	yisy	2	yisy	2
 狛	yrbq	0	yrbq	0
 狜	yggq	1	yggq	0
 狝	yupx	0	yup	0
@@ -16104,14 +16105,14 @@
 猇	yluj	0	ylu	0
 猈	yrbq	1	yrbq	1
 猉	ygqq	0	ygqq	0
-猊	yrue	1	yrue	0
+猊	yrrq	0	yrrq	0
 猋	jjjq	2	jjjq	2
 猌	fezj	1	fezj	1
 猍	yfew	1	yfew	0
 猎	ygxq	0	ygx	0
 猏	yxir	1	yxir	1
 猐	yaqq	0	yaq	0
-猑	yiuu	4	yiuu	3
+猑	yikq	0	yikq	0
 猒	iijq	2	iijq	2
 猓	yigq	0	yigq	0
 猔	yzdu	0	yzdu	0
@@ -16131,7 +16132,7 @@
 猢	ygur	0	ygu	0
 猣	ywvy	0	ywv	0
 猤	yndt	0	ynd	0
-猥	yiko	0	yik	0
+猥	yiko	0	yiko	0
 猦	yyfq	1	yyfq	1
 猧	yoik	0	yoik	0
 猨	yesb	0	yes	0
@@ -16144,7 +16145,7 @@
 猯	yoje	0	yoj	0
 猰	ysbj	0	ysb	0
 猱	ynhm	0	ynh	0
-猲	yium	0	yium	0
+猲	yium	0	yiu	0
 猳	ycco	0	ycco	0
 猴	yrmt	0	yr	0
 猵	yxic	1	yxic	1
@@ -16374,7 +16375,7 @@
 琕	drby	0	drby	0
 琖	dkkg	0	dkkg	0
 琗	dqwf	0	dqwf	0
-琘	duir	1	duir	1
+琘	duhy	0	duh	0
 琙	dkis	1	dki	0
 琚	dcgg	0	dcg	0
 琛	dxhm	0	dxh	0
@@ -16390,7 +16391,7 @@
 琥	dluj	0	dlu	0
 琦	djhk	0	djh	0
 琧	slsd	0	slsd	0
-琨	diuu	0	diuu	0
+琨	dikw	0	dikw	0
 琩	diir	1	diir	1
 琪	dgqw	0	dgq	0
 琫	dsdo	0	dsd	0
@@ -16545,7 +16546,7 @@
 瓀	dhje	0	dhj	0
 瓁	dgrb	0	dgrb	0
 瓂	dgfo	0	dgfo	0
-瓃	diii	3	diii	3
+瓃	diii	1	diii	1
 瓄	dfoo	1	dfoo	0
 瓅	drmh	0	drm	0
 瓆	deeo	0	dee	0
@@ -16579,7 +16580,7 @@
 瓢	hdeg	0	hde	0
 瓣	qegb	0	qeg	0
 瓤	qide	0	qide	0
-瓥	ejii	0	ejii	0
+瓥	ejik	0	ejik	0
 瓦	kwa	0	kwa	0
 瓧	kfuw	0	kfu	0
 瓨	fkwg	1	fkwg	1
@@ -16595,7 +16596,7 @@
 瓲	kktw	1	kkt	0
 瓳	gkwg	1	gkwg	0
 瓴	wkwl	0	wkw	0
-瓵	nikw	0	nik	0
+瓵	nikw	0	nikw	0
 瓶	gjkw	0	gjk	0
 瓷	qykw	0	qyk	0
 瓸	kjbw	0	kjb	0
@@ -16742,9 +16743,9 @@
 疅	ihjt	0	ihjt	0
 疆	cfhj	0	cfh	0
 疇	ifmh	1	ifmh	0
-疈	siii	2	siii	2
+疈	siii	1	siii	1
 疉	iiim	1	iiim	1
-疊	iiii	18	iiii	18
+疊	iiii	17	iiii	17
 疋	vui	0	vui	0
 疋	vuu	0	vuu	0
 疋	vua	0	vua	0
@@ -16859,7 +16860,7 @@
 痸	qtld	2	qtld	1
 痹	qijq	0	qijq	0
 痺	qrbb	0	qrbb	0
-痻	quir	2	quir	2
+痻	quhb	1	quhb	1
 痼	qigg	0	qigg	0
 痽	qrvb	1	qrvb	0
 痾	qvhk	1	qvhk	0
@@ -16937,7 +16938,7 @@
 癆	qaab	2	qaab	2
 癇	qqur	2	qqur	2
 癈	qncy	1	qncy	1
-癉	qiis	3	qiis	3
+癉	qiis	5	qiis	5
 癊	qvwd	2	qvwd	2
 癋	qslx	1	qslx	1
 癌	qiou	0	qio	0
@@ -16946,7 +16947,7 @@
 癏	qosy	1	qos	0
 癐	qwoi	2	qwoi	1
 癑	qiji	1	qiji	1
-癒	qwix	2	qwix	2
+癒	qwix	1	qwix	1
 癓	qeuj	0	qeuj	0
 癔	qqix	1	qqi	0
 癕	qqmr	1	qqmr	1
@@ -16995,7 +16996,7 @@
 皀	rubb	0	rubb	0
 皁	rfub	0	rfub	0
 皂	rkqb	0	rkqb	0
-皃	rueb	0	rueb	0
+皃	rueb	0	rue	0
 的	ryub	0	r	0
 皅	rvbb	0	rvb	0
 皆	uurb	0	uur	0
@@ -17019,7 +17020,7 @@
 皘	rdir	3	rdir	2
 皙	herb	0	her	0
 皚	rohd	1	rohd	0
-皛	rrrb	0	rrr	0
+皛	rrrb	0	rrrb	0
 皜	rqgb	0	rqgb	0
 皝	rdpj	0	rdp	0
 皞	rrjf	0	rrj	0
@@ -17122,7 +17123,7 @@
 盿	iqwm	1	iqwm	1
 眀	iurm	0	iurm	0
 省	pimu	0	pi	0
-眂	iuum	2	iuum	2
+眂	iuum	1	iuum	1
 眃	idym	3	idym	3
 眄	ihmm	0	ihmm	0
 眅	ieby	2	ieby	1
@@ -17172,7 +17173,7 @@
 眱	ikym	0	ikym	0
 眲	igem	0	igem	0
 眳	iymm	2	iymm	2
-眴	iuir	5	iuir	5
+眴	iuir	4	iuir	4
 眵	iyyx	3	iyyx	2
 眶	ikdw	0	ikd	0
 眷	aimj	0	aim	0
@@ -17223,8 +17224,8 @@
 睤	iijq	3	iijq	3
 睥	irbm	0	irbm	0
 睦	ifwf	0	ifw	0
-睧	iuir	6	iuir	6
-睨	irue	0	irue	0
+睧	iuhm	2	iuhm	1
+睨	irrm	0	irr	0
 睩	icpu	4	icpu	3
 睪	ofao	0	ofao	0
 睫	isml	0	ism	0
@@ -17513,7 +17514,7 @@
 碅	jith	0	jith	0
 碆	zbju	0	zbj	0
 碇	jzfy	0	jzf	0
-碈	juir	1	juir	1
+碈	juhu	1	juh	0
 碉	jufi	0	jufi	0
 碊	jkkg	1	jkkg	1
 碋	johk	0	johk	0
@@ -17683,7 +17684,7 @@
 礯	jaam	0	jaam	0
 礰	jjtl	1	jjtl	0
 礱	qisj	0	qisj	0
-礲	jqis	1	jqis	1
+礲	jqis	2	jqis	2
 礳	jqju	3	jqju	2
 礴	jghh	0	jghh	0
 礵	jhhi	1	jhhi	1
@@ -17784,7 +17785,7 @@
 禔	xify	0	xif	0
 禕	xmlk	0	xml	0
 禖	xgmu	0	xgmu	0
-禗	xixx	2	xixx	2
+禗	xisu	0	xisu	0
 禘	xqdu	0	xqdu	0
 禙	xlui	1	xlui	0
 禚	xazh	0	xaz	0
@@ -18053,12 +18054,12 @@
 窡	zbbb	2	zbbb	2
 窢	zkis	1	zkis	1
 窣	zqwf	1	zqwf	1
-窤	ziuu	4	ziuu	3
+窤	zikx	0	zikx	0
 窥	zdoj	0	zdoj	0
 窦	zfmz	0	zfm	0
 窧	zlif	1	zlif	1
 窨	zqir	2	zqir	2
-窩	zoik	2	zoik	2
+窩	zoik	3	zoik	3
 窪	zzff	2	zzff	2
 窫	zsbj	0	zsb	0
 窬	zwil	1	zwil	0
@@ -18090,7 +18091,7 @@
 竆	zrii	0	zrii	0
 竇	zfoo	1	zfoo	1
 竈	zflc	1	zflc	1
-竉	zqis	5	zqis	5
+竉	zqis	6	zqis	6
 竊	ztao	0	ztao	0
 立	qli	0	qli	0
 竌	qujl	1	qujl	1
@@ -18135,9 +18136,9 @@
 竳	qnhd	0	qnh	0
 竴	qahh	0	qahh	0
 竵	qsil	2	qsil	1
-競	qiuu	3	qiuu	3
+競	qiuu	2	qiuu	2
 竷	qify	1	qify	1
-竸	qiuu	4	qiuu	4
+竸	qiuu	3	qiuu	3
 竹	tltl	0	tlt	0
 竺	tsev	0	tse	0
 竻	tblv	1	tblv	1
@@ -18304,7 +18305,7 @@
 箜	tzfg	1	tzfg	1
 箝	tfgg	0	tfgg	0
 箞	tamf	4	tamf	4
-箟	tiuu	4	tiuu	3
+箟	tikv	0	tikv	0
 箠	ttiv	0	ttiv	0
 管	tziy	0	tzi	0
 箢	tzym	0	tzym	0
@@ -18853,7 +18854,7 @@
 緁	msml	0	msml	0
 緂	maah	0	maah	0
 緃	mwwl	0	mwwl	0
-緄	miuu	1	miuu	1
+緄	miks	1	miks	1
 緅	mgby	0	mgby	0
 緆	miyw	0	miyw	0
 緇	mmit	1	mmit	1
@@ -18862,7 +18863,7 @@
 緊	gbms	0	gbm	0
 緋	mlfs	1	mlfs	0
 緌	mtbn	2	mtbn	1
-緍	muir	2	muir	1
+緍	muhs	0	muh	0
 緎	mkis	2	mkis	2
 総	mwnx	0	mwnx	0
 緐	tmyx	0	tmyx	0
@@ -18887,7 +18888,7 @@
 緣	mmts	1	mmts	0
 緤	mgys	0	mgys	0
 緥	mrih	0	mrih	0
-緦	mixx	2	mixx	1
+緦	miss	1	miss	1
 緧	mahy	0	mahy	0
 編	mxic	2	mxic	1
 緩	mesb	1	mes	0
@@ -19155,7 +19156,7 @@
 绯	mlfs	0	ml	0
 绰	mlif	0	mli	0
 绱	mpui	0	mpu	0
-绲	miuu	0	miuu	0
+绲	miks	0	miks	0
 绳	miid	0	mii	0
 维	mrvs	0	mr	0
 绵	mroj	0	mro	0
@@ -19181,7 +19182,7 @@
 缉	mige	0	mige	0
 缊	miom	0	mio	0
 缋	miso	1	miso	1
-缌	mixx	1	mix	0
+缌	miss	0	miss	0
 缍	mtis	2	mtis	2
 缎	mryu	0	mry	0
 缏	mrhg	1	mrhg	1
@@ -19284,7 +19285,7 @@
 罰	oqld	0	oqld	0
 罱	ojnm	0	ojnm	0
 署	ofvm	0	of	0
-罳	oixx	2	oixx	1
+罳	oism	0	oism	0
 罴	ofzh	0	ofz	0
 罵	ommm	0	ommm	0
 罶	oyit	1	oyi	0
@@ -19525,7 +19526,7 @@
 聠	ggjg	1	ggjg	1
 聡	gwnx	1	gwnx	1
 聢	gzfy	1	gzfy	0
-聣	grue	1	grue	1
+聣	grre	0	grre	0
 聤	gqfd	1	gqfd	1
 聥	grye	0	grye	0
 聦	gyxx	2	gyxx	1
@@ -19687,13 +19688,13 @@
 脂	uuir	0	uuir	0
 脃	uysr	0	uysr	0
 脄	ujah	0	uja	0
-脅	bbbi	3	bbbi	3
+脅	bbbi	4	bbbi	4
 脆	uumf	0	uum	0
 脇	ubbb	0	ubbb	0
 脈	ueyo	0	uey	0
 脉	uxur	0	ux	0
 脊	wiro	0	wir	0
-脋	bbbi	4	bbbi	4
+脋	bbbi	5	bbbi	5
 脌	utnr	0	utnr	0
 脍	uwdy	0	uwd	0
 脎	uwsp	0	uws	0
@@ -19748,14 +19749,14 @@
 脿	udyo	0	udy	0
 腀	uwlr	1	uwlr	0
 腁	uesd	0	uesd	0
-腂	uigr	1	uigr	1
+腂	uigr	0	uigr	0
 腃	umft	0	umf	0
 腄	utir	1	utir	1
 腅	uaah	0	uaah	0
 腆	ulcw	0	ulcw	0
 腇	utbn	0	utbn	0
 腈	udir	0	udir	0
-腉	urue	1	uru	0
+腉	urrr	0	urr	0
 腊	ugxr	0	ugx	0
 腋	uqry	0	uqr	0
 腌	ujid	0	ujid	0
@@ -19791,8 +19792,8 @@
 腪	uxki	0	uxk	0
 腫	utvr	1	utvr	0
 腬	unhm	0	unh	0
-腭	uisk	0	uis	0
-腮	uixx	0	uix	0
+腭	uisk	0	uisk	0
+腮	uisr	0	uis	0
 腯	uefi	0	uef	0
 腰	uhbn	0	uh	0
 腱	ucby	0	ucby	0
@@ -19823,7 +19824,7 @@
 膊	uhhc	0	uhh	0
 膋	aaxi	4	aaxi	4
 膌	uwir	0	uwir	0
-膍	uruu	1	uruu	1
+膍	uruu	1	uru	0
 膎	uemj	0	uem	0
 膏	qiir	0	qiir	0
 膐	qyor	0	qyor	0
@@ -20401,7 +20402,7 @@
 菋	gidw	1	gidw	1
 菌	gith	0	gith	0
 菍	gwxx	0	gwx	0
-菎	giuu	1	giuu	1
+菎	gikc	0	gikc	0
 菏	ghkl	0	ghkl	0
 菐	laoy	1	laoy	0
 菑	gmit	0	gmit	0
@@ -20473,7 +20474,7 @@
 萓	gziq	0	gziq	0
 萔	gfbi	2	gfbi	2
 萕	gqws	0	gqws	0
-萖	grue	2	grue	2
+萖	grrc	0	grrc	0
 萗	gzdu	0	gzdu	0
 萘	gjdu	0	gjd	0
 萙	ghoy	0	ghoy	0
@@ -20571,7 +20572,7 @@
 葵	gndt	0	gnd	0
 葶	gqfd	0	gqfd	0
 葷	gxki	1	gxki	0
-葸	gixx	1	gix	0
+葸	gisc	0	gisc	0
 葹	gqvy	1	gqvy	1
 葺	gige	1	gig	0
 葻	gyfc	1	gyfc	0
@@ -20783,7 +20784,7 @@
 蕉	grzh	0	grz	0
 蕊	gxxx	1	gxxx	1
 蕋	glll	0	glll	0
-蕌	giii	4	giii	4
+蕌	giii	2	giii	2
 蕍	gzwl	0	gzwl	0
 蕎	gtii	1	gtii	1
 蕏	gyfv	3	gyfv	3
@@ -20923,7 +20924,7 @@
 藕	gsiy	0	gsi	0
 藖	ggbo	0	ggbo	0
 藗	ghyx	0	ghyx	0
-藘	glix	0	glix	0
+藘	glis	1	glis	1
 藙	gqry	0	gqry	0
 藚	gfoo	0	gfoo	0
 藛	gzrz	0	gzrz	0
@@ -21035,7 +21036,7 @@
 虅	gumm	0	gumm	0
 虆	giim	1	giim	1
 虇	gcgg	1	gcgg	1
-虈	giii	5	giii	5
+虈	giii	3	giii	3
 虉	gsiy	2	gsiy	1
 虊	gqmh	0	gqmh	0
 虋	grub	2	grub	0
@@ -21055,7 +21056,7 @@
 虙	lxbh	0	lxb	0
 虚	llyh	0	ll	0
 虛	lllm	0	lllm	0
-虜	libl	1	libl	1
+虜	libl	2	libl	2
 虝	luyw	1	luyw	1
 虞	lidt	0	lid	0
 號	iklu	1	iklu	1
@@ -21104,9 +21105,9 @@
 蚊	iqwi	0	iqw	0
 蚋	ioni	0	ioni	0
 蚌	isfi	0	isf	0
-蚍	iuub	3	iuub	2
+蚍	iuub	2	iuub	2
 蚎	iiri	1	iiri	1
-蚏	iuri	1	iuri	1
+蚏	iuri	0	iuri	0
 蚐	iuqb	4	iuqb	3
 蚑	ihvi	0	ihvi	0
 蚒	iudi	1	iudi	1
@@ -21141,7 +21142,7 @@
 蚯	irqi	2	irq	0
 蚰	iiyi	1	iiyi	1
 蚱	itvi	3	itvi	3
-蚲	ikpi	1	ikp	0
+蚲	ikpi	1	ikpi	1
 蚳	iudi	2	iudi	2
 蚴	imbl	1	imbl	0
 蚵	ihki	2	ihki	2
@@ -21150,7 +21151,7 @@
 蚸	ieii	0	ieii	0
 蚹	irhc	2	irhc	2
 蚺	iiri	0	iiri	0
-蚻	hmii	2	hmii	2
+蚻	hmii	0	hmii	0
 蚼	iyji	1	iyji	1
 蚽	ijsy	3	ijsy	3
 蚾	ibpi	0	ibpi	0
@@ -21208,14 +21209,14 @@
 蛲	ikjw	3	ikjw	2
 蛳	ilso	0	ils	0
 蛴	iqwb	1	iqwb	1
-蛵	ismf	1	ismf	1
+蛵	ismf	2	ismf	2
 蛶	iehc	3	iehc	3
 蛷	ihqi	2	ihqi	2
 蛸	ipir	1	ipir	0
 蛹	inuy	0	inu	0
 蛺	ijww	4	ijww	4
 蛻	iwiu	0	iwiu	0
-蛼	ikii	2	ikii	2
+蛼	ikii	3	ikii	3
 蛽	iobi	1	iobi	1
 蛾	itwi	0	itwi	0
 蛿	iwhi	3	iwhi	3
@@ -21230,13 +21231,13 @@
 蜈	iidt	0	iid	0
 蜉	ievz	1	ievz	0
 蜊	itld	0	itl	0
-蜋	ixli	1	ixli	1
-蜌	iuuf	4	iuuf	4
+蜋	ixli	0	ixli	0
+蜌	iuuf	4	iuuf	3
 蜍	iwdw	0	iwdw	0
 蜎	iiyi	2	iiyi	2
 蜏	itbn	3	itbn	3
 蜐	ifbl	0	ifb	0
-蜑	rbii	1	rbii	1
+蜑	rbii	0	rbii	0
 蜒	irby	0	irby	0
 蜓	itby	1	itb	0
 蜔	iuit	1	iuit	1
@@ -21262,7 +21263,7 @@
 蜨	isml	3	isml	2
 蜩	iufi	1	iufi	1
 蜪	iutf	1	iutf	0
-蜫	iiuu	1	iiuu	1
+蜫	iiki	0	iiki	0
 蜬	ivzv	2	ivzv	2
 蜭	iurj	1	iurj	1
 蜮	ikis	0	ikis	0
@@ -21277,7 +21278,7 @@
 蜷	iamf	1	iamf	0
 蜸	gbii	0	gbii	0
 蜹	igon	0	igon	0
-蜺	irue	3	irue	3
+蜺	irri	1	irri	1
 蜻	idir	2	idir	1
 蜼	irvi	2	irvi	2
 蜽	isow	2	isow	2
@@ -21323,7 +21324,7 @@
 蝥	ntii	0	nti	0
 蝦	icco	4	icco	3
 蝧	igiy	7	igiy	7
-蝨	ciii	2	ciii	1
+蝨	cikx	0	cikx	0
 蝩	itvi	5	itvi	5
 蝪	inyi	2	inyi	2
 蝫	ifvi	2	ifvi	2
@@ -21332,7 +21333,7 @@
 蝮	itiy	2	itiy	2
 蝯	iesb	4	iesb	3
 蝰	ijff	1	ijff	0
-蝱	qiii	5	qiii	5
+蝱	qikw	6	qikw	6
 蝲	ihld	1	ihld	0
 蝳	idmm	1	idmm	1
 蝴	igur	0	igu	0
@@ -21372,7 +21373,7 @@
 螖	ioir	4	ioir	3
 螗	iqci	2	iqc	0
 螘	iohd	3	iohd	3
-螙	hiii	3	hiii	3
+螙	hikm	2	hikm	2
 螚	niui	1	niui	1
 螛	izhi	1	izhi	1
 螜	fiig	0	fiig	0
@@ -21380,9 +21381,9 @@
 螞	immi	2	immi	2
 螟	ixiq	1	ixiq	1
 螠	iaom	1	iaom	0
-螡	qiii	6	qiii	6
+螡	qikw	7	qikw	7
 螢	aaxi	5	aaxi	5
-螣	uiit	2	uii	0
+螣	uiit	1	uii	0
 螤	qiiw	2	qiiw	2
 螥	iwzi	2	iwzi	2
 螦	idms	1	idms	1
@@ -21401,18 +21402,18 @@
 螳	ipft	0	ipf	0
 螴	vhsi	0	vhsi	0
 螵	ihdu	2	ihdu	1
-螶	kiii	0	kiii	0
+螶	kikj	0	kikj	0
 螷	qrii	1	qrii	1
 螸	eyii	1	eyii	1
 螹	ikej	1	ikej	0
 螺	iims	0	iims	0
 螻	iiib	5	iiib	5
 螼	igse	0	igse	0
-螽	yzii	0	yzi	0
+螽	yzik	0	yzi	0
 螾	izsw	1	izsw	1
 螿	vyhi	2	vyhi	2
 蟀	iqmf	1	iqmf	1
-蟁	ciii	3	ciii	2
+蟁	cikm	0	cikm	0
 蟂	iyhm	1	iyhm	1
 蟃	iimi	0	iimi	0
 蟄	fayi	0	fayi	0
@@ -21421,7 +21422,7 @@
 蟇	giji	4	giji	4
 蟈	iiks	1	iiks	1
 蟉	inli	1	inli	1
-蟊	niii	1	niii	0
+蟊	nikm	0	nik	0
 蟋	itax	1	itax	1
 蟌	irxx	4	irxx	4
 蟍	itlh	0	itlh	0
@@ -21453,7 +21454,7 @@
 蟧	iaab	1	iaab	1
 蟨	jgvi	0	jgvi	0
 蟩	ijgy	3	ijgy	2
-蟪	isix	1	isix	0
+蟪	isix	1	isix	1
 蟫	ihif	1	ihif	1
 蟬	iiis	4	iiis	4
 蟭	irzh	3	irzh	3
@@ -21461,13 +21462,13 @@
 蟯	iffj	3	iffj	3
 蟰	icwm	2	icwm	1
 蟱	itzh	3	itzh	3
-蟲	iiii	19	iiii	19
+蟲	iiki	1	iiki	1
 蟳	icfh	1	icfh	1
 蟴	geii	1	geii	1
 蟵	ijhh	2	ijhh	2
 蟶	igid	3	igid	3
 蟷	ipit	1	ipit	1
-蟸	jiii	6	jiii	5
+蟸	jiku	1	jiku	1
 蟹	ybti	0	ybti	0
 蟺	iqos	1	iqos	0
 蟻	iatw	2	iatw	2
@@ -21481,7 +21482,7 @@
 蠃	qiiy	4	qiiy	3
 蠄	iwqo	1	iwqo	0
 蠅	ilmc	0	ilm	0
-蠆	giii	6	giii	6
+蠆	giii	4	giii	4
 蠇	igiy	8	igiy	8
 蠈	okji	0	okji	0
 蠉	iosy	3	iosy	2
@@ -21504,27 +21505,27 @@
 蠚	gjii	2	gjii	2
 蠛	igoz	0	igoz	0
 蠜	hhwi	0	hhwi	0
-蠝	iiii	20	iiii	20
+蠝	iiii	18	iiii	18
 蠞	tcvi	0	tcvi	0
 蠟	imim	3	imim	2
-蠠	jiii	7	jiii	6
-蠡	miii	0	miii	0
-蠢	siii	0	siii	0
+蠠	jikm	1	jikm	1
+蠡	mikt	1	mik	0
+蠢	siki	0	sik	0
 蠣	ijgi	2	ijgi	2
-蠤	ahii	0	ahii	0
+蠤	ahik	1	ahik	0
 蠥	vrqi	0	vrqi	0
 蠦	ilio	3	ilio	3
 蠧	fxji	0	fxji	0
 蠨	igcm	1	igcm	1
 蠩	iqfv	3	iqfv	3
 蠪	qisi	1	qisi	1
-蠫	elii	0	elii	0
+蠫	elik	0	elik	0
 蠬	iqis	3	iqis	3
 蠭	ysxi	1	ysxi	1
 蠮	iktn	0	iktn	0
-蠯	qrii	2	qrii	2
+蠯	qrik	1	qrik	1
 蠰	iqid	5	iqid	5
-蠱	iiio	0	iiio	0
+蠱	iiom	3	iiom	3
 蠲	aooi	1	aoo	0
 蠳	ioob	4	ioob	3
 蠴	igof	0	igof	0
@@ -21532,7 +21533,7 @@
 蠶	kkii	1	kkii	1
 蠷	iirv	3	iirv	3
 蠸	iggi	2	iggi	2
-蠹	hjii	0	hjii	0
+蠹	hjik	0	hjik	0
 蠺	ddii	2	ddii	2
 蠻	qmmi	4	qmmi	4
 蠼	iirb	0	iirb	0
@@ -21709,7 +21710,7 @@
 裦	qunm	0	qunm	0
 裧	xaah	2	xaah	0
 裨	xrby	2	xrby	1
-裩	xiuu	2	xiuu	1
+裩	xiky	0	xiky	0
 裪	xutf	1	xutf	0
 裫	xwlm	0	xwlm	0
 裬	xfwy	1	xfwy	1
@@ -21952,7 +21953,7 @@
 觘	ypuj	0	ypuj	0
 觙	yyjj	0	yyjj	0
 觚	yegj	0	yegj	0
-觛	yisy	2	yisy	2
+觛	yisy	3	yisy	3
 觜	luyj	0	luy	0
 觝	yudj	0	yudj	0
 觞	ytny	0	ytn	0
@@ -21969,7 +21970,7 @@
 觩	yhqj	0	yhq	0
 觪	yqxj	0	yqxj	0
 觫	yhuj	0	yhuj	0
-觬	yrue	3	yrue	2
+觬	yrrj	0	yrrj	0
 觭	yjhk	1	yjhk	0
 觮	ycpu	1	ycpu	0
 觯	yadj	0	yad	0
@@ -22087,8 +22088,8 @@
 詟	jqyl	1	jqyl	0
 詠	qxuy	0	qxu	0
 詡	qnyy	1	qnyy	1
-詢	quir	3	quir	3
-詣	quir	4	quir	4
+詢	quir	1	quir	1
+詣	quir	2	quir	2
 詤	qwmr	0	qwmr	0
 詥	qwhy	0	qwhy	0
 試	qkfg	0	qkfg	0
@@ -22178,7 +22179,7 @@
 誺	qfew	2	qfew	1
 誻	qoir	2	qoir	2
 誼	qziq	3	qziq	3
-誽	qrue	3	qrue	2
+誽	qrry	1	qrry	0
 誾	qqym	2	qqym	1
 調	qufi	1	qufi	0
 諀	qrby	3	qrby	3
@@ -22206,7 +22207,7 @@
 論	qwly	3	qwly	3
 諗	qwxx	4	qwx	0
 諘	qdyo	1	qdyo	0
-諙	quir	5	quir	5
+諙	quhy	1	quhy	1
 諚	qzfy	0	qzfy	0
 諛	qryy	1	qryy	1
 諜	qgyy	0	qgyy	0
@@ -22229,7 +22230,7 @@
 諭	qwil	3	qwil	3
 諮	qqyi	0	qqyi	0
 諯	qoje	1	qoje	0
-諰	qixx	7	qixx	6
+諰	qisy	6	qisy	5
 諱	qmlk	0	qml	0
 諲	qhft	2	qhft	1
 諳	qqir	3	qqir	3
@@ -22311,7 +22312,7 @@
 謿	qgsu	1	qgsu	1
 譀	qmgt	1	qmgt	0
 譁	qgdg	1	qgdg	1
-譂	qiis	4	qiis	4
+譂	qiis	6	qiis	6
 譃	qlly	1	qlly	1
 譄	qazy	0	qazy	0
 譅	qbbl	1	qbbl	0
@@ -22377,7 +22378,7 @@
 讁	qqax	0	qqax	0
 讂	quly	1	quly	1
 讃	qddo	0	qddo	0
-讄	qiii	7	qiii	7
+讄	qiii	4	qiii	4
 讅	qzti	1	qzti	1
 讆	edmq	0	edmq	0
 讇	qqur	4	qqur	4
@@ -22644,7 +22645,7 @@
 貋	eidg	0	eidg	0
 貌	erue	0	eru	0
 貍	eilv	1	eilv	1
-貎	erue	2	erue	1
+貎	errv	0	errv	0
 貏	erbv	2	erbv	1
 貐	ewil	0	ewi	0
 貑	ecco	1	ecco	0
@@ -22761,7 +22762,7 @@
 贀	ktyo	0	ktyo	0
 贁	ootw	0	ootw	0
 贂	onnw	3	onnw	2
-贃	oixx	3	oixx	2
+贃	oixx	0	oixx	0
 贄	fayo	1	fayo	1
 贅	dtob	2	dtob	1
 贆	ojjj	0	ojjj	0
@@ -22776,7 +22777,7 @@
 贏	qoby	1	qoby	0
 贐	oczo	2	oczo	1
 贑	qifo	2	qifo	2
-贒	gixo	0	gixo	0
+贒	gixo	0	gix	0
 贓	ojmg	0	ojmg	0
 贔	ooob	2	ooob	2
 贕	yfoo	0	yfoo	0
@@ -22862,7 +22863,7 @@
 赥	fyqi	3	fyqi	3
 赦	ftwi	0	ftwi	0
 赧	fvby	2	fvby	2
-赨	fiii	5	fiii	5
+赨	fiii	4	fiii	4
 赩	fysi	0	fysi	0
 赪	flob	0	flob	0
 赫	ffii	0	ffi	0
@@ -23006,7 +23007,7 @@
 践	idjz	0	idj	0
 跶	ijxz	1	ijxz	1
 跷	ikjw	2	ikjw	1
-跸	iuuf	3	iuuf	3
+跸	iuuf	3	iuuf	2
 跹	itxz	1	itx	0
 跺	iuhm	0	iuh	0
 跻	iqwb	0	iqwb	0
@@ -23015,7 +23016,7 @@
 跾	rtil	0	rtil	0
 跿	iflz	1	iflz	1
 踀	iilz	2	iilz	2
-踁	ismf	2	ismf	2
+踁	ismf	3	ismf	3
 踂	igmw	0	igmw	0
 踃	ipir	3	ipir	2
 踄	ilpt	1	ilpt	1
@@ -23221,7 +23222,7 @@
 軋	kmwi	1	kmw	0
 軌	kuji	2	kuji	0
 軍	xkim	2	xkim	1
-軎	kiki	2	kiki	2
+軎	kiki	3	kiki	2
 軏	kjwi	1	kjwi	1
 軐	kcxi	0	kcx	0
 軑	kjdi	1	kjdi	0
@@ -23294,7 +23295,7 @@
 輔	khfi	1	khfi	0
 輕	ksmf	0	ksm	0
 輖	kufi	0	kuf	0
-輗	krue	2	krue	1
+輗	krri	1	krri	0
 輘	kfwy	1	kfwy	1
 輙	kgby	0	kgb	0
 輚	kkkg	0	kkkg	0
@@ -23308,7 +23309,7 @@
 輢	kjhk	0	kjh	0
 輣	kuur	1	kuur	0
 輤	kdir	0	kdi	0
-輥	kiuu	1	kiuu	1
+輥	kiki	4	kiki	3
 輦	ddki	3	ddki	2
 輧	kesd	0	kes	0
 輨	kziy	0	kzi	0
@@ -23367,7 +23368,7 @@
 轝	rsmk	0	rsmk	0
 轞	kgto	0	kgt	0
 轟	kkki	0	kkki	0
-轠	kiii	1	kiii	1
+轠	kiii	0	kiii	0
 轡	mkmi	2	mkmi	1
 轢	krmh	0	krm	0
 轣	kjtl	0	kjtl	0
@@ -23410,7 +23411,7 @@
 辇	ddki	2	ddk	0
 辈	lkif	0	lki	0
 辉	pjxk	0	pjx	0
-辊	kiuu	0	kiuu	0
+辊	kiki	1	kik	0
 辋	kugq	0	kug	0
 辌	kqji	0	kqj	0
 辍	kbbb	0	kbbb	0
@@ -23501,7 +23502,7 @@
 迢	bixz	1	bixz	0
 迣	gxzu	0	gxzu	0
 迤	tvxz	0	tvx	0
-迥	uixz	0	uixz	0
+迥	uixz	0	uix	0
 迦	bixz	0	bix	0
 迧	ixzu	0	ixzu	0
 迨	nixz	0	nixz	0
@@ -23527,7 +23528,7 @@
 迼	fxzj	2	fxzj	2
 追	rxzd	0	rxz	0
 迾	jlxz	0	jlxz	0
-迿	uixz	1	uixz	1
+迿	uixz	1	uixz	0
 退	cxzg	0	cx	0
 送	gjxz	0	gjx	0
 适	txzu	0	txz	0
@@ -23556,7 +23557,7 @@
 這	qxzy	1	qxzy	0
 通	nuxz	0	nu	0
 逛	ydxz	0	yd	0
-逜	hixz	2	hixz	2
+逜	hixz	2	hixz	1
 逝	fexz	0	fexz	0
 逞	idxz	0	idx	0
 速	hxzu	0	hxzu	0
@@ -23571,7 +23572,7 @@
 逨	fezx	3	fezx	3
 逩	jfjx	1	jfjx	1
 逪	gxzx	1	gxzx	1
-逫	bbbx	3	bbbx	3
+逫	bbbx	2	bbbx	2
 逬	esjx	0	esjx	0
 逭	zixz	0	zixz	0
 逮	cxzl	0	cxzl	0
@@ -23627,7 +23628,7 @@
 遠	fiyx	1	fiyx	1
 遡	gvux	1	gvux	1
 遢	inxz	0	inxz	0
-遣	isix	0	isi	0
+遣	isix	0	isix	0
 遤	mxzm	0	mxzm	0
 遥	etxz	0	etx	0
 遦	mmlx	0	mmlx	0
@@ -23771,7 +23772,7 @@
 郰	gbve	0	gbve	0
 郱	gjve	1	gjve	0
 郲	fezv	3	fezv	3
-郳	ruve	0	ruve	0
+郳	rver	0	rver	0
 郴	hhve	0	hhve	0
 郵	tvei	0	tvei	0
 郶	qivb	2	qivb	1
@@ -23924,7 +23925,7 @@
 醉	hqwf	0	hqw	0
 醊	hbbb	2	hbbb	2
 醋	hgxy	0	hgx	0
-醌	hiuu	2	hiuu	1
+醌	hiky	0	hiky	0
 醍	hify	0	hify	0
 醎	hjsi	1	hjsi	1
 醏	hfvy	1	hfvy	1
@@ -24305,7 +24306,7 @@
 錆	wdir	3	wdir	3
 錇	wqpj	0	wqp	0
 錈	wamf	0	wamf	0
-錉	wuir	1	wuir	1
+錉	wuhj	0	wuhj	0
 錊	wqwf	0	wqwf	0
 錋	wuur	0	wuur	0
 錌	wojd	0	wojd	0
@@ -24317,7 +24318,7 @@
 錒	wvhk	0	wvh	0
 錓	waqj	0	waq	0
 錔	woir	2	woir	2
-錕	wiuu	0	wiuu	0
+錕	wikj	1	wikj	1
 錖	lpbw	0	lpbw	0
 錗	wtbn	1	wtbn	0
 錘	wtij	0	wtij	0
@@ -24414,7 +24415,7 @@
 鍳	gtwj	0	gtwj	0
 鍴	woje	0	woje	0
 鍵	wcby	0	wcb	0
-鍶	wixx	0	wix	0
+鍶	wisj	0	wisj	0
 鍷	wjff	0	wjff	0
 鍸	wgur	1	wgur	1
 鍹	wzxj	0	wzx	0
@@ -24428,7 +24429,7 @@
 鎁	wgve	0	wgv	0
 鎂	wajd	0	waj	0
 鎃	wzey	0	wze	0
-鎄	wqik	0	wqik	0
+鎄	wqik	1	wqik	1
 鎅	wiwj	1	wiwj	1
 鎆	wgil	0	wgil	0
 鎇	wvmj	0	wvm	0
@@ -24650,7 +24651,7 @@
 鑟	wfoo	0	wfoo	0
 鑠	wrmh	0	wrmh	0
 鑡	wlij	0	wlij	0
-鑢	wlix	0	wlix	0
+鑢	wlis	0	wlis	0
 鑣	wqzh	0	wqz	0
 鑤	wigp	0	wigp	0
 鑥	wyir	0	wyir	0
@@ -24839,7 +24840,7 @@
 锜	tjhk	0	tjh	0
 锝	tidz	0	tidz	0
 锞	tigj	0	tigj	0
-锟	tiuu	1	tiu	0
+锟	tikj	0	tikj	0
 锠	tiir	3	tiir	2
 锡	tiyw	0	tiyw	0
 锢	tigg	2	tig	0
@@ -24862,7 +24863,7 @@
 锳	tgiy	0	tgiy	0
 锴	tuur	0	tuu	0
 锵	tpyh	0	tpy	0
-锶	tixx	1	tixx	1
+锶	tisj	1	tisj	1
 锷	tisk	0	tis	0
 锸	ttrj	1	ttr	0
 锹	ttah	0	tta	0
@@ -24981,7 +24982,7 @@
 閪	qhxm	1	qhxm	1
 閫	qihm	3	qihm	2
 閬	qxlm	1	qxlm	0
-閭	qiik	7	qiik	7
+閭	qiik	8	qiik	8
 閮	qtby	2	qtby	2
 閯	qzpu	2	qzpu	1
 閰	qrjm	1	qrjm	1
@@ -24997,7 +24998,7 @@
 閺	qiqw	5	qiqw	5
 閻	qurj	4	qurj	3
 閼	qqwz	2	qqwz	2
-閽	quir	6	quir	6
+閽	quhm	1	quhm	1
 閾	qkis	1	qkis	0
 閿	qexb	2	qexb	1
 闀	qgwc	0	qgwc	0
@@ -25033,7 +25034,7 @@
 闞	qmgt	2	qmgt	1
 闟	qwny	0	qwny	0
 闠	qiso	2	qiso	2
-闡	qiis	5	qiis	5
+闡	qiis	7	qiis	7
 闢	qciq	3	qciq	3
 闣	qpit	1	qpit	1
 闤	qosy	4	qosy	3
@@ -25075,9 +25076,9 @@
 阈	qkis	0	qki	0
 阉	qjid	2	qjid	1
 阊	qiir	2	qiir	2
-阋	qrue	0	qru	0
+阋	qrrm	0	qrrm	0
 阌	qexb	0	qex	0
-阍	quir	1	quir	1
+阍	quhm	0	quhm	0
 阎	qurj	1	qur	0
 阏	qqwz	1	qqwz	1
 阐	qadm	0	qad	0
@@ -25339,7 +25340,7 @@
 霐	hzcn	0	hzcn	0
 霑	hzli	1	hzli	1
 霒	hdwj	0	hdwj	0
-霓	hrue	1	hrue	1
+霓	hrry	0	hrr	0
 霔	hzqv	1	hzqv	1
 霕	hdkt	1	hdkt	1
 霖	hhhm	1	hhhm	0
@@ -25385,7 +25386,7 @@
 霾	heil	0	hei	0
 霿	hnyi	0	hnyi	0
 靀	hgsj	3	hgsj	3
-靁	hiii	4	hiii	4
+靁	hiii	3	hiii	3
 靂	hjtl	2	hjtl	2
 靃	hrrv	0	hrrv	0
 靄	hqim	1	hqim	1
@@ -25652,7 +25653,7 @@
 顈	umjy	2	umjy	1
 顉	wjyj	2	wjyj	2
 顊	rfjy	0	rfjy	0
-顋	ixjy	0	ixjy	0
+顋	ijys	0	ijys	0
 題	ifjy	2	ifjy	1
 額	zyjy	1	zyjy	0
 顎	iskj	1	iskj	1
@@ -25761,7 +25762,7 @@
 颵	ypir	1	ypir	1
 颶	yijf	1	yijf	1
 颷	yaah	0	yaah	0
-颸	yixx	5	yixx	5
+颸	yisf	1	yisf	1
 颹	ymlk	0	yml	0
 颺	ynyf	1	ynyf	1
 颻	etyf	1	etyf	1
@@ -25789,7 +25790,7 @@
 飑	yybf	1	yybf	1
 飒	qyfl	0	qyfl	0
 飓	yijf	0	yijf	0
-飔	yixx	3	yixx	3
+飔	yisf	0	yisf	0
 飕	yrsf	0	yrsf	0
 飖	etyf	2	etyf	2
 飗	yyit	2	yyit	1
@@ -25860,7 +25861,7 @@
 餘	ywdw	1	ywdw	1
 餙	ywjo	1	ywjo	1
 餚	ywji	1	ywji	1
-餛	yiuu	5	yiuu	4
+餛	yiku	1	yiku	1
 餜	yigu	1	yigu	0
 餝	ygqf	1	ygqf	1
 餞	ykkg	2	ykkg	2
@@ -25883,10 +25884,10 @@
 餯	ymtu	2	ymtu	2
 餰	yedz	0	yedz	0
 餱	yrmt	2	yrmt	0
-餲	yium	1	yium	1
+餲	yium	1	yium	0
 餳	ynyu	1	ynyu	0
 餴	yjfj	0	yjf	0
-餵	yiko	2	yiko	1
+餵	yiko	2	yiko	2
 餶	yoir	4	yoir	3
 餷	yhis	2	yhis	2
 餸	ygjx	0	ygjx	0
@@ -25965,7 +25966,7 @@
 馁	yebn	0	yeb	0
 馂	ynwy	2	ynwy	1
 馃	yigu	0	yig	0
-馄	yiuu	1	yiuu	0
+馄	yiku	0	yiku	0
 馅	yurj	0	yu	0
 馆	yziy	0	yz	0
 馇	yhis	1	yhis	1
@@ -26065,7 +26066,7 @@
 駥	mkjz	2	mkjz	2
 駦	ammj	0	ammj	0
 駧	musi	2	musi	1
-駨	muir	3	muir	2
+駨	muir	2	muir	1
 駩	mwdw	3	mwdw	3
 駪	mtue	1	mtue	1
 駫	mpjw	1	mpjw	0
@@ -26090,7 +26091,7 @@
 駾	maiu	2	maiu	1
 駿	mnwy	1	mnwy	0
 騀	mtwm	1	mtwm	1
-騁	mikk	1	mikk	0
+騁	mikk	1	mikk	1
 騂	mqxm	1	mqxm	0
 騃	mntu	1	mnt	0
 騄	mcpu	3	mcpu	1
@@ -26098,7 +26099,7 @@
 騆	mufi	2	mufi	1
 騇	mwdi	0	mwdi	0
 騈	mesd	0	mesd	0
-騉	miuu	2	miuu	2
+騉	mikm	0	mikm	0
 騊	mutf	3	mutf	3
 騋	mfew	1	mfew	0
 騌	mzdu	2	mzdu	1
@@ -26127,7 +26128,7 @@
 騣	mwvy	1	mwvy	1
 騤	mndt	1	mndt	0
 騥	mnhm	1	mnhm	0
-騦	mixx	3	mixx	2
+騦	mism	0	mism	0
 騧	moik	1	moik	1
 騨	mpis	0	mpis	0
 騩	mrgm	0	mrgm	0
@@ -26228,7 +26229,7 @@
 骈	mgjg	1	mgj	0
 骉	mmmm	1	mmm	0
 骊	mhlm	0	mhl	0
-骋	mikk	0	mik	0
+骋	mikk	0	mikk	0
 验	mwzo	0	mw	0
 骍	mqxm	0	mqx	0
 骎	mcxb	0	mcx	0
@@ -26387,7 +26388,7 @@
 鬦	lddz	0	lddz	0
 鬧	lddo	0	lddo	0
 鬨	lddw	0	lddw	0
-鬩	lddu	0	lddu	0
+鬩	lddr	0	lddr	0
 鬪	lddh	0	lddh	0
 鬫	lddt	0	lddt	0
 鬬	ldde	0	ldde	0
@@ -26572,9 +26573,9 @@
 鯟	yhsy	0	yhs	0
 鯠	yfew	2	yfew	1
 鯡	ylfy	1	ylfy	0
-鯢	yrue	4	yrue	3
+鯢	yrry	1	yrry	0
 鯣	yiyw	1	yiyw	1
-鯤	yiuu	6	yiuu	5
+鯤	yiky	1	yiky	0
 鯥	yfwf	0	yfwf	0
 鯦	yypi	1	yypi	0
 鯧	yiir	2	yiir	2
@@ -26605,7 +26606,7 @@
 鰀	yesb	1	yesb	0
 鰁	yrou	1	yrou	0
 鰂	yold	1	yold	0
-鰃	yiko	3	yiko	2
+鰃	yiko	3	yiko	3
 鰄	yjsb	0	yjsb	0
 鰅	yiyy	8	yiyy	7
 鰆	ysiy	2	ysiy	2
@@ -26621,7 +26622,7 @@
 鰐	yisk	1	yisk	0
 鰑	ynyy	2	ynyy	2
 鰒	ytiy	2	ytiy	1
-鰓	yixx	6	yixx	6
+鰓	yisy	4	yisy	4
 鰔	yjsi	1	yjsi	1
 鰕	ycco	1	ycco	1
 鰖	yjir	3	yjir	3
@@ -26780,10 +26781,10 @@
 鲯	ygqy	0	ygq	0
 鲰	ygby	0	ygby	0
 鲱	ylfy	0	ylf	0
-鲲	yiuu	0	yiu	0
+鲲	yiky	0	yik	0
 鲳	yiir	0	yiir	0
 鲴	yigg	0	yigg	0
-鲵	yrue	0	yru	0
+鲵	yrry	0	yrr	0
 鲶	ywxx	2	ywxx	1
 鲷	yufi	0	yuf	0
 鲸	yqjy	0	yqj	0
@@ -26796,8 +26797,8 @@
 鲿	ypdy	2	ypd	0
 鳀	yify	0	yif	0
 鳁	yiom	0	yio	0
-鳂	yiko	1	yiko	0
-鳃	yixx	1	yixx	1
+鳂	yiko	1	yiko	1
+鳃	yisy	0	yisy	0
 鳄	yisk	0	yis	0
 鳅	ytah	0	yta	0
 鳆	ytiy	0	yti	0
@@ -26848,7 +26849,7 @@
 鳱	dyng	0	dyng	0
 鳲	cynu	2	cynu	2
 鳳	usyn	0	usy	0
-鳴	iynk	1	iynk	1
+鳴	iynk	2	iynk	2
 鳵	cynx	0	cynx	0
 鳶	kyny	2	kyny	1
 鳷	hynv	0	hynv	0
@@ -26986,12 +26987,12 @@
 鵻	yrvn	0	yrvn	0
 鵼	zfyn	2	zfyn	2
 鵽	bbby	3	bbby	3
-鵾	iuuy	1	iuuy	1
+鵾	iynk	3	iynk	3
 鵿	yitu	5	yitu	5
 鶀	ygqn	0	ygqn	0
 鶁	qynj	0	qynj	0
-鶂	ruyn	0	ruyn	0
-鶃	yrue	5	yrue	4
+鶂	rynr	0	rynr	0
+鶃	yrrn	0	yrrn	0
 鶄	diyn	2	diyn	2
 鶅	miyn	0	miyn	0
 鶆	fezy	1	fezy	1
@@ -27109,7 +27110,7 @@
 鷶	ooyn	1	ooyn	0
 鷷	ahhy	0	ahhy	0
 鷸	nuwy	1	nuwy	0
-鷹	qrry	1	qrry	0
+鷹	qrry	2	qrry	1
 鷺	iyyn	3	iyyn	3
 鷻	yqvt	2	yqvt	2
 鷼	qiyn	2	qiyn	2
@@ -27139,7 +27140,7 @@
 鸔	yigp	0	yigp	0
 鸕	lioy	0	lioy	0
 鸖	hryn	1	hryn	1
-鸗	qisy	6	qisy	5
+鸗	qisy	7	qisy	6
 鸘	hhiy	2	hhiy	2
 鸙	wiiy	0	wiiy	0
 鸚	ooby	1	ooby	1
@@ -27193,7 +27194,7 @@
 鹊	gynx	0	gynx	0
 鹋	giyn	0	giyn	0
 鹌	jiyn	0	jiyn	0
-鹍	iuuy	0	iuuy	0
+鹍	iynk	1	iynk	1
 鹎	rynb	0	ryn	0
 鹏	uuyn	0	uuyn	0
 鹐	uryn	0	uryn	0
@@ -27261,7 +27262,7 @@
 麎	qjil	4	qjil	4
 麏	qcik	3	qcik	2
 麐	qqik	2	qqik	2
-麑	qrue	1	qrue	0
+麑	qrrl	0	qrrl	0
 麒	quug	0	quug	0
 麓	hhql	0	hhq	0
 麔	qypi	1	qypi	0
@@ -27307,7 +27308,7 @@
 麼	qmym	0	qmym	0
 麽	qymm	0	qym	0
 麾	qtmm	0	qtmm	0
-麿	qiik	8	qiik	8
+麿	qiik	9	qiik	9
 黀	qgby	2	qgby	1
 黁	qtir	2	qtir	2
 黂	qfgo	1	qfgo	1
@@ -27374,7 +27375,7 @@
 黿	sjlc	0	sjlc	0
 鼀	fwlc	0	fwlc	0
 鼁	flmc	0	flmc	0
-鼂	islc	0	islc	0
+鼂	islc	1	islc	1
 鼃	fflc	1	fflc	0
 鼄	tlmc	0	tlmc	0
 鼅	tilc	1	tilc	1
@@ -27410,7 +27411,7 @@
 鼣	rjqu	0	rjqu	0
 鼤	rqwu	0	rqwu	0
 鼥	rjbu	0	rjbu	0
-鼦	rbik	4	rbik	4
+鼦	rbik	5	rbik	5
 鼧	rzub	1	rzub	0
 鼨	ryzo	1	ryzo	0
 鼩	ryju	0	ryj	0
@@ -27483,14 +27484,14 @@
 齬	lhik	1	lhik	0
 齭	lete	0	let	0
 齮	ljhk	1	ljhk	0
-齯	lrue	1	lrue	0
+齯	lrri	1	lrri	0
 齰	lgxi	0	lgx	0
 齱	lgby	0	lgb	0
 齲	lryi	1	lry	0
 齳	lxki	0	lxk	0
 齴	lqeu	0	lqeu	0
 齵	liyi	2	liyi	2
-齶	lisk	0	lis	0
+齶	lisk	0	lisk	0
 齷	lckv	1	lckv	0
 齸	laom	0	laom	0
 齹	afli	1	afl	0
@@ -27514,7 +27515,7 @@
 龋	lryi	0	lr	0
 龌	lckv	0	lck	0
 龍	qiss	0	qiss	0
-龎	jqis	2	jqis	2
+龎	jqis	3	jqis	3
 龏	qisj	1	qisj	1
 龐	qqis	0	qqis	0
 龑	qisd	0	qisd	0
@@ -27624,11 +27625,11 @@
 鿹	yzxo	0	yzxo	0
 鿺	synm	0	syn	0
 鿻	rjoj	2	rjoj	1
-鿼	rbik	5	rbik	5
+鿼	rbik	6	rbik	6
 鿽	iztv	0	iztv	0
 鿾	fzcv	0	fzcv	0
 鿿	hwpu	1	hwpu	1
-𠅤	qixx	8	qixx	7
+𠅤	qist	1	qist	1
 𠙶	vvkl	0	vvk	0
 𠳐	isve	1	isv	0
 𡎚	fxic	1	fxic	1
@@ -27643,7 +27644,7 @@
 𥔲	jisk	0	jisk	0
 𥕢	jgcu	0	jgc	0
 𥖨	jihm	1	jihm	1
-𥻗	ahis	1	ahis	1
+𥻗	ahis	2	ahis	2
 𦈡	mhje	0	mhje	0
 𦒍	qiny	2	qiny	1
 𦙶	uggr	2	uggr	1
@@ -27660,7 +27661,7 @@
 𨱏	tgwh	0	tgwh	0
 𨱑	tghj	0	tghj	0
 𨱔	tahh	2	tahh	1
-𨺙	vrue	0	vrue	0
+𨺙	vrre	0	vrr	0
 𩽾	yzbn	0	yzb	0
 𩾃	yymy	1	yym	0
 𩾌	yqcl	0	yqcl	0
@@ -27682,7 +27683,7 @@
 𫍲	xrsy	0	xrs	0
 𫍽	xosy	0	xos	0
 𫐄	kjwi	0	kjwi	0
-𫐐	krue	0	kru	0
+𫐐	krri	0	krr	0
 𫐓	knhm	1	knhm	0
 𫑡	iive	0	iiv	0
 𫓧	tdfj	0	tdf	0
@@ -27715,7 +27716,7 @@
 𫟼	tjxz	1	tjxz	0
 𫠆	hjyv	0	hjyv	0
 𫠊	mqmy	3	mqmy	3
-𫠜	lrue	0	lru	0
+𫠜	lrri	0	lrr	0
 𫢸	radr	0	rad	0
 𫫇	igxx	0	igxx	0
 𫭟	fkwy	1	fkwy	0
@@ -27777,7 +27778,7 @@
 𬬮	ttij	3	ttij	2
 𬬱	tejj	0	tej	0
 𬬸	thuj	0	thuj	0
-𬬹	tiuj	0	tiuj	0
+𬬹	tiuj	0	tiu	0
 𬬻	tlcu	0	tlc	0
 𬬿	tbik	5	tbik	4
 𬭁	tmmj	1	tmmj	1
@@ -28437,7 +28438,7 @@
 三年级	stmy	2	stmy	2
 三心两意	sxhq	0	sxhq	0
 三心二意	sxsq	1	sxsq	1
-三思	ssix	0	ssix	0
+三思	ssis	0	ssis	0
 三思后行	siee	0	siee	0
 三思而后行	sije	0	sije	0
 三招	ssfb	0	ssfb	0
@@ -29762,7 +29763,7 @@
 世界上	gilu	0	gilu	0
 世界之窗	gixz	0	gixz	0
 世界人民	giwc	0	giwc	0
-世界冠军	gixx	2	gixx	1
+世界冠军	gixx	1	gixx	1
 世界前列	gigj	3	gigj	3
 世界卫生组织	givm	0	givm	0
 世界历史	giji	1	giji	1
@@ -31318,7 +31319,7 @@
 乡居	mxcg	2	mxcg	2
 乡巴佬	mvrg	0	mvrg	0
 乡干部	mdqv	0	mdqv	0
-乡思	mxix	0	mxix	0
+乡思	mxis	0	mxis	0
 乡情	mxpd	0	mxpd	0
 乡愁	mxta	0	mxta	0
 乡愿	mxjr	0	mxjr	0
@@ -31996,7 +31997,7 @@
 交换机	qfhu	1	qfhu	1
 交接	qefq	0	qefq	0
 交易	qeiy	0	qeiy	0
-交易中心	qiix	1	qiix	1
+交易中心	qiix	0	qiix	0
 交易会	qiwd	1	qiwd	1
 交易所	qiet	0	qiet	0
 交易额	qizy	0	qizy	0
@@ -32115,7 +32116,7 @@
 产能	qini	0	qini	0
 产自	qirz	0	qirz	0
 产道	qiax	2	qiax	2
-产量	qiis	0	qiis	0
+产量	qiis	1	qiis	1
 产钳	qitg	0	qitg	0
 产销	qitp	0	qitp	0
 产销量	qtis	2	qtis	2
@@ -32923,7 +32924,7 @@
 以攻为守	nfaz	0	nfaz	0
 以文会友	nqwj	0	nqwj	0
 以旧换新	nlfq	0	nlfq	0
-以暴易暴	niii	2	niii	1
+以暴易暴	niii	1	niii	0
 以期	nwgu	0	nwgu	0
 以权代法	nhrz	0	nhrz	0
 以权谋私	nhxt	0	nhxt	0
@@ -33461,7 +33462,7 @@
 伯乐	rryl	0	rryl	0
 伯仲	rrri	1	rrri	1
 伯仲叔季	rrlt	0	rrlt	0
-伯伯	rrrr	1	rrrr	1
+伯伯	rrrr	2	rrrr	2
 伯利兹	rtgm	0	rtgm	0
 伯劳	rrgb	1	rrgb	0
 伯尔尼	rucu	0	rucu	0
@@ -35131,7 +35132,7 @@
 傻乎乎	reeh	0	reeh	0
 傻了	rrvl	0	rrvl	0
 傻事	rrhu	1	rrhu	1
-傻傻	rrrr	0	rrrr	0
+傻傻	rrrr	1	rrrr	1
 傻呵呵	riih	0	riih	0
 傻头傻脑	rzru	1	rzru	1
 傻姑	rrbg	0	rrbg	0
@@ -36993,7 +36994,7 @@
 冲掉	qifl	5	qifl	5
 冲撞	qifq	2	qifq	2
 冲散	qigi	3	qigi	3
-冲昏	qiui	0	qiui	0
+冲昏	qiuh	0	qiuh	0
 冲昏头脑	quzu	0	quzu	0
 冲服	qiuv	0	qiuv	0
 冲杀	qiws	0	qiws	0
@@ -37017,7 +37018,7 @@
 冲走	qifl	4	qifl	4
 冲过	qihx	3	qihx	3
 冲进	qidx	0	qidx	0
-冲量	qiis	2	qiis	2
+冲量	qiis	4	qiis	4
 冲锋	qity	1	qity	1
 冲锋枪	qthw	1	qthw	1
 冲锋陷阵	qtvv	0	qtvv	0
@@ -37126,7 +37127,7 @@
 冷血动物	qrdt	0	qrdt	0
 冷言冷语	qqqx	0	qqqx	0
 冷轧	qwkm	0	qwkm	0
-冷遇	qwix	1	qwix	1
+冷遇	qwix	0	qwix	0
 冷酷	qwht	0	qwht	0
 冷酷无情	qhdp	1	qhdp	1
 冷锋	qwty	1	qwty	1
@@ -37306,7 +37307,7 @@
 凝华	quru	0	quru	0
 凝合	quwh	0	quwh	0
 凝固	quig	0	quig	0
-凝思	quix	0	quix	0
+凝思	quis	1	quis	1
 凝想	quhi	1	quhi	1
 凝成	qujm	1	qujm	1
 凝望	ququ	2	ququ	2
@@ -40140,7 +40141,7 @@
 单片机	arhu	0	arhu	0
 单独	adyi	0	adyi	0
 单相	adhi	0	adhi	0
-单相思	ahix	0	ahix	0
+单相思	ahis	1	ahis	1
 单眼	adic	0	adic	0
 单眼皮	aibp	0	aibp	0
 单科	adtz	0	adtz	0
@@ -41267,7 +41268,7 @@
 反应	ebqz	0	ebqz	0
 反应堆	eqfr	1	eqfr	1
 反弹	ebca	0	ebca	0
-反思	ebix	0	ebix	0
+反思	ebis	0	ebis	0
 反恐	ebfy	0	ebfy	0
 反恐怖	efpj	0	efpj	0
 反悔	ebpt	0	ebpt	0
@@ -41431,7 +41432,7 @@
 发明创造	biwt	0	biwt	0
 发明家	bizj	0	bizj	0
 发明者	bifv	0	bifv	0
-发昏	bfui	1	bfui	1
+发昏	bfuh	0	bfuh	0
 发春	bfsi	0	bfsi	0
 发晕	bfix	0	bfix	0
 发条	bfys	0	bfys	0
@@ -41789,7 +41790,7 @@
 口不择言	ijfq	1	ijfq	1
 口中	ikiv	0	ikiv	0
 口交	ikqe	0	ikqe	0
-口令	ikwl	0	ikwl	0
+口令	ikwl	1	ikwl	1
 口传	ikrd	0	ikrd	0
 口供	ikrg	0	ikrg	0
 口信	ikrq	1	ikrq	1
@@ -42294,7 +42295,7 @@
 台阶	nivw	0	nivw	0
 台面	nijm	0	nijm	0
 台风	niyf	0	niyf	0
-叱令	iuwl	2	iuwl	2
+叱令	iuwl	1	iuwl	1
 叱咤	iuiz	0	iuiz	0
 叱咤风云	iiyd	0	iiyd	0
 叱责	iudo	0	iudo	0
@@ -42364,13 +42365,13 @@
 叶鞘	ifgp	0	ifgp	0
 号丧	ikhn	0	ikhn	0
 号为	ikaw	0	ikaw	0
-号令	ikwl	1	ikwl	1
+号令	ikwl	2	ikwl	2
 号兵	ikrw	0	ikrw	0
 号叫	ikiv	1	ikiv	1
 号召	ikbi	0	ikbi	0
 号召力	ibbl	1	ibbl	1
 号哭	ikij	1	ikij	1
-号啕	ikiu	0	ikiu	0
+号啕	ikiu	1	ikiu	1
 号外	ikyp	0	ikyp	0
 号房	ikxq	0	ikxq	0
 号手	iktu	3	iktu	3
@@ -42832,7 +42833,7 @@
 同日	usir	0	usir	0
 同日而语	uijx	0	uijx	0
 同时	usih	0	usih	0
-同时代	uirk	1	uirk	1
+同时代	uirk	0	uirk	0
 同时期	uigu	0	uigu	0
 同月	usur	0	usur	0
 同期	usgu	0	usgu	0
@@ -43164,7 +43165,7 @@
 吓唬	ihil	0	ihil	0
 吓坏	ihfj	1	ihfj	1
 吓得	ihei	0	ihei	0
-吓昏	ihui	0	ihui	0
+吓昏	ihuh	0	ihuh	0
 吓晕	ihix	0	ihix	0
 吓死	ihju	0	ihju	0
 吓着	ihai	1	ihai	1
@@ -43573,9 +43574,9 @@
 周长	ufti	1	ufti	1
 呱呱叫	iiiv	0	iiiv	0
 呱呱坠地	iivf	0	iivf	0
-呲牙咧嘴	ikii	1	ikii	1
+呲牙咧嘴	ikii	2	ikii	2
 味儿	idue	0	idue	0
-味同嚼蜡	iuii	1	iuii	1
+味同嚼蜡	iuii	0	iuii	0
 味精	idad	0	idad	0
 味美	idaj	1	idaj	1
 味苦	idgg	1	idgg	1
@@ -43802,7 +43803,7 @@
 哀婉	qibz	0	qibz	0
 哀家	qizj	2	qizj	2
 哀怜	qipw	0	qipw	0
-哀思	qiix	2	qiix	2
+哀思	qiis	3	qiis	3
 哀怨	qiym	0	qiym	0
 哀恸	qipd	1	qipd	1
 哀悼	qipl	0	qipl	0
@@ -46290,7 +46291,7 @@
 复会	tiwd	3	tiwd	3
 复位	tirq	0	tirq	0
 复信	tirq	3	tirq	3
-复元	tisj	1	tisj	1
+复元	tisj	2	tisj	2
 复兴	tizw	0	tizw	0
 复写	tixk	2	tixk	2
 复写纸	txmu	1	txmu	1
@@ -46747,7 +46748,7 @@
 够吗	yyim	0	yyim	0
 够呛	yyiw	0	yyiw	0
 够多	yyyy	2	yyyy	2
-够意思	yqix	0	yqix	0
+够意思	yqis	0	yqis	0
 够戗	yywm	0	yywm	0
 够数	yyab	3	yyab	3
 够朋友	yujb	0	yujb	0
@@ -47770,7 +47771,7 @@
 头年	zttn	0	zttn	0
 头彩	zteh	0	zteh	0
 头戴	ztfk	1	ztfk	1
-头昏	ztui	1	ztui	1
+头昏	ztuh	0	ztuh	0
 头昏眼花	zuig	0	zuig	0
 头昏脑涨	zuuz	0	zuuz	0
 头昏脑胀	zuuu	0	zuuu	0
@@ -48211,7 +48212,7 @@
 奶头	bbzt	1	bbzt	1
 奶奶	bbbb	0	bbbb	0
 奶妈	bbbm	0	bbbm	0
-奶娘	bbbx	2	bbbx	2
+奶娘	bbbx	1	bbbx	1
 奶子	bbvz	1	bbvz	1
 奶昔	bbgx	0	bbgx	0
 奶水	bbou	0	bbou	0
@@ -48331,7 +48332,7 @@
 好惨	bvpn	0	bvpn	0
 好想	bvhi	0	bvhi	0
 好意	bvqi	1	bvqi	1
-好意思	bqix	0	bqix	0
+好意思	bqis	0	bqis	0
 好感	bvjs	0	bvjs	0
 好懂	bvpg	0	bvpg	0
 好戏	bvbk	0	bvbk	0
@@ -48672,7 +48673,7 @@
 姑且	bgiq	0	bgiq	0
 姑夫	bgdf	0	bgdf	0
 姑奶奶	bbbb	5	bbbb	5
-姑妄听之	bqix	1	bqix	1
+姑妄听之	bqix	0	bqix	0
 姑妈	bgbm	0	bgbm	0
 姑姑	bgbg	1	bgbg	1
 姑娘	bgbx	0	bgbx	0
@@ -48868,7 +48869,7 @@
 婉辞	bztq	0	bztq	0
 婉顺	bzrj	0	bzrj	0
 婊子	bdvz	2	bdvz	2
-婚丧	buhn	0	buhn	0
+婚丧	buhn	1	buhn	0
 婚丧嫁娶	bhbg	0	bhbg	0
 婚书	bumu	0	bumu	0
 婚事	buhu	0	buhu	0
@@ -50622,7 +50623,7 @@
 寻寻觅觅	ccee	0	ccee	0
 寻常	chpo	0	chpo	0
 寻幽	chom	0	chom	0
-寻思	chix	0	chix	0
+寻思	chis	0	chis	0
 寻找	chfk	0	chfk	0
 寻摸	chfg	0	chfg	0
 寻机	chhu	0	chhu	0
@@ -50944,7 +50945,7 @@
 小怪	pxpb	0	pxpb	0
 小恩小惠	pips	0	pips	0
 小惠	pxsi	1	pxsi	1
-小意思	pqix	0	pqix	0
+小意思	pqis	0	pqis	0
 小憩	pxtr	0	pxtr	0
 小戏	pxbk	1	pxbk	1
 小我	pxtw	0	pxtw	0
@@ -52102,7 +52103,7 @@
 巧夺天工	fjdf	1	fjdf	1
 巧妇难为无米之炊	fbba	0	fbba	0
 巧妙	fkbp	0	fkbp	0
-巧思	fkix	1	fkix	1
+巧思	fkis	2	fkis	2
 巧手	fktu	1	fktu	1
 巧用	fkuy	0	fkuy	0
 巧立名目	fqyi	2	fqyi	2
@@ -52528,7 +52529,7 @@
 席地	qgfv	3	qgfv	3
 席地而坐	qfjw	0	qfjw	0
 席子	qgvz	1	qgvz	1
-席梦思	qhix	1	qhix	1
+席梦思	qhis	0	qhis	0
 席次	qgqy	1	qgqy	0
 席间	qgqi	2	qgqi	2
 帮主	svqv	0	svqv	0
@@ -53100,7 +53101,7 @@
 幽幽	omom	0	omom	0
 幽径	omen	0	omen	0
 幽微	omeu	0	omeu	0
-幽思	omix	0	omix	0
+幽思	omis	0	omis	0
 幽怨	omym	0	omym	0
 幽情	ompd	0	ompd	0
 幽愤	ompf	0	ompf	0
@@ -54857,7 +54858,7 @@
 心怀叵测	xpkz	0	xpkz	0
 心怀鬼胎	xpru	1	xpru	1
 心态	xxjx	0	xxjx	0
-心思	xxix	0	xxix	0
+心思	xxis	0	xxis	0
 心急	xxuc	0	xxuc	0
 心急如焚	xubh	0	xubh	0
 心急火燎	xuaa	0	xuaa	0
@@ -55164,7 +55165,7 @@
 忧心	pjxx	0	pjxx	0
 忧心如焚	pxbh	0	pxbh	0
 忧心忡忡	pxpp	0	pxpp	0
-忧思	pjix	2	pjix	2
+忧思	pjis	0	pjis	0
 忧悒	pjpi	1	pjpi	1
 忧患	pjix	0	pjix	0
 忧惧	pjpi	0	pjpi	0
@@ -55378,19 +55379,19 @@
 怜惜	pwpg	0	pwpg	0
 怜爱	pwex	0	pwex	0
 怜香惜玉	ptpd	1	ptpd	1
-思乡	ixmx	0	ixmx	0
-思亲	ixqs	0	ixqs	0
-思凡	ixyf	0	ixyf	0
+思乡	ismx	0	ismx	0
+思亲	isqs	0	isqs	0
+思凡	isyf	1	isyf	1
 思前想后	ighe	0	ighe	0
-思变	ixqb	0	ixqb	0
-思古	ixgg	1	ixgg	1
-思域	ixfk	1	ixfk	1
+思变	isqb	1	isqb	1
+思古	isgg	0	isgg	0
+思域	isfk	1	isfk	1
 思如泉涌	ibrz	0	ibrz	0
-思归	ixlc	0	ixlc	0
-思忖	ixph	0	ixph	0
-思念	ixwx	0	ixwx	0
-思恋	ixqx	0	ixqx	0
-思想	ixhi	0	ixhi	0
+思归	islc	0	islc	0
+思忖	isph	0	isph	0
+思念	iswx	0	iswx	0
+思恋	isqx	2	isqx	2
+思想	ishi	0	ishi	0
 思想上	ihlu	0	ihlu	0
 思想体系	ihry	1	ihry	1
 思想作风	ihry	2	ihry	2
@@ -55405,28 +55406,28 @@
 思想观念	ihbw	0	ihbw	0
 思想认识	ihxx	0	ihxx	0
 思想道德	ihae	0	ihae	0
-思慕	ixgi	1	ixgi	1
-思政	ixft	0	ixft	0
-思旧	ixli	0	ixli	0
-思明	ixiu	0	ixiu	0
-思春	ixsi	2	ixsi	2
-思源	ixzj	0	ixzj	0
-思潮	ixzg	0	ixzg	0
+思慕	isgi	1	isgi	1
+思政	isft	0	isft	0
+思旧	isli	0	isli	0
+思明	isiu	0	isiu	0
+思春	issi	0	issi	0
+思源	iszj	0	iszj	0
+思潮	iszg	0	iszg	0
 思潮起伏	izfr	1	izfr	1
-思科	ixtz	0	ixtz	0
-思索	ixfx	0	ixfx	0
-思绪	ixmf	0	ixmf	0
+思科	istz	0	istz	0
+思索	isfx	0	isfx	0
+思绪	ismf	0	ismf	0
 思绪万千	imkt	0	imkt	0
-思维	ixmr	0	ixmr	0
+思维	ismr	0	ismr	0
 思维敏捷	imtf	1	imtf	1
-思考	ixfk	0	ixfk	0
+思考	isfk	0	isfk	0
 思考题	ifif	6	ifif	6
-思虑	ixlx	0	ixlx	0
-思谋	ixxg	0	ixxg	0
-思路	ixiy	0	ixiy	0
-思辨	ixqe	0	ixqe	0
-思远	ixsj	0	ixsj	0
-思量	ixis	1	ixis	1
+思虑	islx	0	islx	0
+思谋	isxg	0	isxg	0
+思路	isiy	0	isiy	0
+思辨	isqe	0	isqe	0
+思远	issj	0	issj	0
+思量	isis	0	isis	0
 怠工	nifg	0	nifg	0
 怠惰	nipj	0	nipj	0
 怠慢	nipi	0	nipi	0
@@ -56044,7 +56045,7 @@
 情形	pdde	0	pdde	0
 情怀	pdpj	0	pdpj	0
 情态	pdjx	0	pdjx	0
-情思	pdix	0	pdix	0
+情思	pdis	0	pdis	0
 情急	pduc	0	pduc	0
 情急之下	puxh	1	puxh	1
 情意	pdqi	1	pdqi	1
@@ -56336,7 +56337,7 @@
 愁云惨雾	tdph	0	tdph	0
 愁容	taze	0	taze	0
 愁怀	tapj	2	tapj	2
-愁思	taix	0	taix	0
+愁思	tais	0	tais	0
 愁怨	taym	0	taym	0
 愁死	taju	0	taju	0
 愁眉	tavm	0	tavm	0
@@ -56382,9 +56383,9 @@
 意志	qifx	0	qifx	0
 意志力	qfbl	0	qfbl	0
 意念	qiwx	0	qiwx	0
-意思	qiix	0	qiix	0
+意思	qiis	0	qiis	0
 意思是	qiif	2	qiif	2
-意思是说	qiix	3	qiix	3
+意思是说	qiix	1	qiix	1
 意想	qihi	1	qihi	1
 意想不到	qhjk	0	qhjk	0
 意愿	qijr	0	qijr	0
@@ -56393,7 +56394,7 @@
 意料不到	qajk	0	qajk	0
 意料之中	qaxi	0	qaxi	0
 意料之外	qaxy	0	qaxy	0
-意旨	qiui	1	qiui	1
+意旨	qiui	0	qiui	0
 意欲	qiey	0	qiey	0
 意气	qitq	0	qitq	0
 意气用事	qtuh	0	qtuh	0
@@ -56420,7 +56421,7 @@
 愚人节	iwgv	0	iwgv	0
 愚公	ixwn	0	ixwn	0
 愚公移山	iwto	0	iwto	0
-愚妄	ixqb	1	ixqb	1
+愚妄	ixqb	0	ixqb	0
 愚弄	ixdj	0	ixdj	0
 愚忠	ixix	0	ixix	0
 愚拙	ixfv	2	ixfv	2
@@ -56434,7 +56435,7 @@
 愚蒙	ixgs	0	ixgs	0
 愚蠢	ixsi	0	ixsi	0
 愚钝	ixtk	0	ixtk	0
-愚顽	ixsj	1	ixsj	1
+愚顽	ixsj	0	ixsj	0
 感人	jswr	0	jswr	0
 感人肺腑	jwuu	1	jwuu	1
 感人至深	jwkz	0	jwkz	0
@@ -56703,7 +56704,7 @@
 成事不足	jhji	2	jhji	2
 成事在天	jhjd	0	jhjd	0
 成交	jmqe	0	jmqe	0
-成交量	jqis	0	jqis	0
+成交量	jqis	1	jqis	1
 成交额	jqzy	0	jqzy	0
 成亲	jmqs	0	jmqs	0
 成人	jmwr	0	jmwr	0
@@ -56847,7 +56848,7 @@
 或多或少	kykp	0	kykp	0
 或大或小	kjkp	0	kjkp	0
 或将	kipy	0	kipy	0
-或明或暗	kiki	1	kiki	1
+或明或暗	kiki	2	kiki	1
 或是	kiif	0	kiif	0
 或然率	kyqm	0	kyqm	0
 或用	kiuy	0	kiuy	0
@@ -57052,7 +57053,7 @@
 所幸	etfa	0	etfa	0
 所得	etei	0	etei	0
 所得税	eeta	0	eeta	0
-所思	etix	0	etix	0
+所思	etis	0	etis	0
 所想	ethi	0	ethi	0
 所愿	etjr	0	etjr	0
 所持	etff	0	etff	0
@@ -57262,7 +57263,7 @@
 才尽其用	hcgu	0	hcgu	0
 才干	hcdg	0	hcdg	0
 才德兼备	heay	0	heay	0
-才思	hcix	0	hcix	0
+才思	hcis	0	hcis	0
 才思敏捷	hitf	1	hitf	1
 才怪	hcpb	0	hcpb	0
 才情	hcpd	0	hcpd	0
@@ -57428,7 +57429,7 @@
 打文	ffqw	2	ffqw	2
 打斗	ffzd	0	ffzd	0
 打断	ffam	0	ffam	0
-打昏	ffui	0	ffui	0
+打昏	ffuh	0	ffuh	0
 打春	ffsi	0	ffsi	0
 打晕	ffix	0	ffix	0
 打杂	ffus	0	ffus	0
@@ -61284,7 +61285,7 @@
 文化	qwru	0	qwru	0
 文化交流	qrqz	0	qrqz	0
 文化人	qrwr	1	qrwr	1
-文化传统	qrrm	0	qrrm	0
+文化传统	qrrm	1	qrrm	1
 文化大革命	qrjw	0	qrjw	0
 文化娱乐	qrby	0	qrby	0
 文化宫	qrzi	0	qrzi	0
@@ -61324,7 +61325,7 @@
 文弱书生	qcmt	0	qcmt	0
 文心	qwxx	2	qwxx	2
 文心雕龙	qxuj	0	qxuj	0
-文思	qwix	0	qwix	0
+文思	qwis	1	qwis	1
 文思泉涌	qirz	1	qirz	1
 文戏	qwbk	0	qwbk	0
 文房四宝	qxoz	0	qxoz	0
@@ -62640,14 +62641,14 @@
 昂首	iyau	0	iyau	0
 昂首挺胸	iafu	0	iafu	0
 昂首阔步	iaql	0	iaql	0
-昆仑	iuwl	0	iuwl	0
-昆仲	iuri	0	iuri	0
-昆剧	iucg	0	iucg	0
-昆山	iuou	0	iuou	0
-昆明	iuiu	1	iuiu	1
-昆腔	iuuz	0	iuuz	0
-昆腾	iuum	0	iuum	0
-昆虫	iuii	0	iuii	0
+昆仑	ikwl	0	ikwl	0
+昆仲	ikri	0	ikri	0
+昆剧	ikcg	0	ikcg	0
+昆山	ikou	1	ikou	1
+昆明	ikiu	0	ikiu	0
+昆腔	ikuz	1	ikuz	1
+昆腾	ikum	0	ikum	0
+昆虫	ikii	0	ikii	0
 昌乐	iiyl	0	iiyl	0
 昌吉	iifj	0	iifj	0
 昌图	iiiy	3	iiiy	3
@@ -62664,7 +62665,7 @@
 明亮	iuqu	0	iuqu	0
 明人	iuwr	0	iuwr	0
 明代	iurk	0	iurk	0
-明令	iuwl	1	iuwl	1
+明令	iuwl	0	iuwl	0
 明令禁止	iwhl	0	iwhl	0
 明信片	irrp	0	irrp	0
 明修栈道	irha	0	irha	0
@@ -62767,28 +62768,28 @@
 明镜高悬	itqi	4	itqi	4
 明面	iujm	0	iujm	0
 明黄	iugh	0	iugh	0
-昏乱	uitm	0	uitm	0
-昏倒	uirk	0	uirk	0
-昏厥	uijg	0	uijg	0
-昏君	uici	0	uici	0
+昏乱	uhtm	0	uhtm	0
+昏倒	uhrk	0	uhrk	0
+昏厥	uhjg	0	uhjg	0
+昏君	uhci	0	uhci	0
 昏天黑地	udof	0	udof	0
 昏头昏脑	uzuu	1	uzuu	1
 昏头转向	uzkr	0	uzkr	0
-昏庸	uiqc	0	uiqc	0
+昏庸	uhqc	0	uhqc	0
 昏昏欲睡	uuei	0	uuei	0
 昏昏沉沉	uuzz	0	uuzz	0
-昏晕	uiix	0	uiix	0
-昏暗	uiiq	0	uiiq	0
-昏沉	uizx	0	uizx	0
-昏然	uiyj	1	uiyj	1
-昏眩	uiiq	1	uiiq	1
-昏睡	uiit	0	uiit	0
-昏聩	uigi	0	uigi	0
-昏花	uigr	0	uigr	0
-昏迷	uiax	0	uiax	0
+昏晕	uhix	0	uhix	0
+昏暗	uhiq	0	uhiq	0
+昏沉	uhzx	0	uhzx	0
+昏然	uhyj	0	uhyj	0
+昏眩	uhiq	1	uhiq	1
+昏睡	uhit	0	uhit	0
+昏聩	uhgi	0	uhgi	0
+昏花	uhgr	2	uhgr	2
+昏迷	uhax	0	uhax	0
 昏迷不醒	uajh	0	uajh	0
-昏黄	uigh	0	uigh	0
-昏黑	uioh	0	uioh	0
+昏黄	uhgh	0	uhgh	0
+昏黑	uhoh	0	uhoh	0
 易主	iyqv	0	iyqv	0
 易事	iyhu	1	iyhu	1
 易于	iydy	1	iydy	1
@@ -63055,7 +63056,7 @@
 晕机	ixhu	3	ixhu	3
 晕死	ixju	0	ixju	0
 晕眩	ixiq	0	ixiq	0
-晕红	ixmf	1	ixmf	1
+晕红	ixmf	0	ixmf	0
 晕船	ixeu	0	ixeu	0
 晕菜	ixge	0	ixge	0
 晕血	ixrx	1	ixrx	1
@@ -63112,7 +63113,7 @@
 晨光	ijpj	0	ijpj	0
 晨光熹微	ipfe	0	ipfe	0
 晨报	ijfv	0	ijfv	0
-晨昏	ijui	0	ijui	0
+晨昏	ijuh	0	ijuh	0
 晨星	ijit	0	ijit	0
 晨晖	ijix	2	ijix	1
 晨曦	ijia	0	ijia	0
@@ -63267,7 +63268,7 @@
 暖烘烘	iaag	0	iaag	0
 暖瓶	iegj	0	iegj	0
 暖色	ieys	0	ieys	0
-暖融融	issi	0	issi	0
+暖融融	issi	1	issi	1
 暖锋	iety	2	iety	2
 暖阁	ieqy	0	ieqy	0
 暖阳	ievi	2	ievi	2
@@ -63709,7 +63710,7 @@
 月报	urfv	0	urfv	0
 月收入	uvwr	0	uvwr	0
 月明	uriu	0	uriu	0
-月明星稀	uiit	1	uiit	1
+月明星稀	uiit	0	uiit	0
 月晕	urix	0	urix	0
 月朗星稀	uzit	0	uzit	0
 月末	urdm	0	urdm	0
@@ -63854,7 +63855,7 @@
 有惊无险	jpdv	0	jpdv	0
 有意	jiqi	0	jiqi	0
 有意义	jqay	0	jqay	0
-有意思	jqix	0	jqix	0
+有意思	jqis	0	jqis	0
 有意无意	jqdq	0	jqdq	0
 有感	jijs	0	jijs	0
 有感而发	jjjb	0	jjjb	0
@@ -64860,7 +64861,7 @@
 来过	klhx	1	klhx	1
 来龙去脉	kjfu	1	kjfu	1
 杨利伟	htrd	0	htrd	0
-杨尚昆	hpiu	0	hpiu	0
+杨尚昆	hpik	1	hpik	1
 杨戬	hngi	0	hngi	0
 杨朱	hntv	0	hntv	0
 杨柳	hnhy	0	hnhy	0
@@ -65012,7 +65013,7 @@
 极致	hykt	0	hykt	0
 极速	hyhx	0	hyhx	0
 极道	hyax	0	hyax	0
-极量	hyis	2	hyis	2
+极量	hyis	3	hyis	3
 极限	hyvc	0	hyvc	0
 极限运动	hvdd	0	hvdd	0
 极难	hybr	0	hybr	0
@@ -65022,7 +65023,7 @@
 构图	hyiy	0	hyiy	0
 构型	hydl	0	hydl	0
 构建	hycb	0	hycb	0
-构思	hyix	0	hyix	0
+构思	hyis	0	hyis	0
 构想	hyhi	0	hyhi	0
 构成	hyjm	1	hyjm	0
 构架	hybi	0	hybi	0
@@ -66370,7 +66371,7 @@
 歇息	iurx	0	iurx	0
 歇斯底里	igqi	0	igqi	0
 歇着	iuai	1	iuai	1
-歇脚	iuuf	1	iuuf	1
+歇脚	iuuf	1	iuuf	0
 歇腿	iuuc	0	iuuc	0
 歉意	ayqi	0	ayqi	0
 歉收	ayvt	0	ayvt	0
@@ -67962,7 +67963,7 @@
 沉声	zxfv	2	zxfv	2
 沉寂	zxzl	0	zxzl	0
 沉底	zxqu	0	zxqu	0
-沉思	zxix	1	zxix	1
+沉思	zxis	1	zxis	1
 沉毅	zxqr	1	zxqr	1
 沉没	zxzy	0	zxzy	0
 沉沦	zxzw	1	zxzw	1
@@ -68089,7 +68090,7 @@
 没想到	zhkl	0	zhkl	0
 没想过	zhhx	3	zhhx	3
 没意义	zqay	0	zqay	0
-没意思	zqix	0	zqix	0
+没意思	zqis	1	zqis	1
 没戏	zybk	0	zybk	0
 没把	zyfv	0	zyfv	0
 没收	zyvt	0	zyvt	0
@@ -68255,7 +68256,7 @@
 油纸	zimu	2	zimu	1
 油罐	zitg	0	zitg	0
 油耗	zist	0	zist	0
-油脂	ziuu	1	ziuu	0
+油脂	ziuu	0	ziuu	0
 油腔滑调	zuzx	1	zuzx	1
 油腻	ziuk	0	ziuk	0
 油膏	ziqi	4	ziqi	4
@@ -69553,7 +69554,7 @@
 深得	zxei	0	zxei	0
 深得人心	zewx	0	zewx	0
 深怕	zxpr	0	zxpr	0
-深思	zxix	0	zxix	0
+深思	zxis	0	zxis	0
 深思熟虑	ziql	0	ziql	0
 深恶痛绝	zgqm	0	zgqm	0
 深情	zxpd	0	zxpd	0
@@ -69920,7 +69921,7 @@
 游动	zqdb	2	zqdb	2
 游医	zqkt	0	zqkt	0
 游历	zqjb	0	zqjb	0
-游园	zqis	1	zqis	1
+游园	zqis	2	zqis	2
 游园会	ziwd	2	ziwd	2
 游子	zqvz	2	zqvz	1
 游学	zqzv	0	zqzv	0
@@ -73302,7 +73303,7 @@
 申屠	iucf	0	iucf	0
 申报	iufv	0	iufv	0
 申斥	iuei	0	iuei	0
-申明	iuiu	2	iuiu	2
+申明	iuiu	1	iuiu	1
 申花	iugr	0	iugr	0
 申讨	iuxh	1	iuxh	1
 申论	iuxw	0	iuxw	0
@@ -73445,7 +73446,7 @@
 电能	idni	1	idni	1
 电脑	iduq	0	iduq	0
 电脑城	iufj	0	iufj	0
-电脑网络	iuum	1	iuum	1
+电脑网络	iuum	0	iuum	0
 电芯	idgx	0	idgx	0
 电荒	idgq	0	idgq	0
 电荷	idgr	1	idgr	0
@@ -73462,7 +73463,7 @@
 电讯	idxc	0	idxc	0
 电话	idxt	0	idxt	0
 电话亭	ixqf	0	ixqf	0
-电话会议	ixwx	1	ixwx	1
+电话会议	ixwx	0	ixwx	0
 电话卡	ixlq	0	ixlq	0
 电话号码	ixij	0	ixij	0
 电话机	ixhu	2	ixhu	2
@@ -73607,7 +73608,7 @@
 画蛇添足	sizi	1	sizi	1
 画谱	sixg	0	sixg	0
 画质	sief	0	sief	0
-画轴	siki	0	siki	0
+画轴	siki	1	siki	0
 画院	sivz	0	sivz	0
 画面	sijm	0	sijm	0
 画风	siyf	0	siyf	0
@@ -74834,7 +74835,7 @@
 直隶	jvcl	0	jvcl	0
 直面	jvjm	0	jvjm	0
 直飞	jvnf	0	jvnf	0
-相与	hiky	0	hiky	0
+相与	hiky	1	hiky	1
 相中	hiiv	0	hiiv	0
 相乘	hitl	0	hitl	0
 相书	himu	0	himu	0
@@ -74919,7 +74920,7 @@
 相忘	hiqx	1	hiqx	1
 相忘于江湖	hqdz	0	hqdz	0
 相忘江湖	hqzz	2	hqzz	2
-相思	hiix	1	hiix	1
+相思	hiis	0	hiis	0
 相思病	hiqh	0	hiqh	0
 相恋	hiqx	0	hiqx	0
 相悖	hipf	0	hipf	0
@@ -81459,7 +81460,7 @@
 胆管	uitz	0	uitz	0
 胆色	uiys	0	uiys	0
 胆识	uixi	0	uixi	0
-胆道	uiax	1	uiax	1
+胆道	uiax	0	uiax	0
 胆酸	uihn	0	uihn	0
 胆量	uiis	0	uiis	0
 胆颤心惊	uqxp	1	uqxp	1
@@ -83181,7 +83182,7 @@
 苦心	ggxx	1	ggxx	1
 苦心孤诣	gxvx	0	gxvx	0
 苦心经营	gxmg	0	gxmg	0
-苦思	ggix	0	ggix	0
+苦思	ggis	0	ggis	0
 苦恋	ggqx	2	ggqx	2
 苦恼	ggpq	0	ggpq	0
 苦情	ggpd	1	ggpd	1
@@ -84346,7 +84347,7 @@
 蚕豆	dihd	1	dihd	1
 蚕食	diwu	0	diwu	0
 蚕食鲸吞	dwyd	0	dwyd	0
-蚜虫	ikii	0	ikii	0
+蚜虫	ikii	1	ikii	1
 蚝油	itzi	0	itzi	0
 蚯蚓	iric	0	iric	0
 蚱蜢	itiv	2	itiv	2
@@ -84572,7 +84573,7 @@
 蠢蠢欲动	ssed	0	ssed	0
 蠢话	sixt	0	sixt	0
 蠢货	siru	1	siru	1
-蠹虫	hjii	1	hjii	1
+蠹虫	hjii	0	hjii	0
 血丝	rxmm	0	rxmm	0
 血书	rxmu	1	rxmu	1
 血亏	rxsk	0	rxsk	0
@@ -84597,7 +84598,7 @@
 血战	rxli	0	rxli	0
 血拼	rxfg	0	rxfg	0
 血族	rxqt	0	rxqt	0
-血晕	rxix	1	rxix	1
+血晕	rxix	0	rxix	0
 血本	rxhb	0	rxhb	0
 血本无归	rhdl	1	rhdl	1
 血染	rxzu	1	rxzu	1
@@ -87555,7 +87556,7 @@
 贵族	isqt	0	isqt	0
 贵校	ishq	0	ishq	0
 贵池	iszv	0	iszv	0
-贵港	iszg	0	iszg	0
+贵港	iszg	1	iszg	1
 贵胄	isii	2	isii	2
 贵贱	isod	0	isod	0
 贵重	istv	0	istv	0
@@ -88513,7 +88514,7 @@
 践诺	idxg	0	idxg	0
 践踏	idio	0	idio	0
 跷跷板	iihe	1	iihe	1
-跺脚	iuuf	2	iuuf	2
+跺脚	iuuf	2	iuuf	1
 跻身	iqru	0	iqru	0
 踉跄	ixiw	0	ixiw	0
 踉踉跄跄	iiii	13	iiii	13
@@ -90177,7 +90178,7 @@
 追平	rxkp	0	rxkp	0
 追忆	rxpm	0	rxpm	0
 追怀	rxpj	2	rxpj	2
-追思	rxix	0	rxix	0
+追思	rxis	2	rxis	2
 追悔	rxpt	1	rxpt	1
 追悔莫及	rpgy	0	rpgy	0
 追悼	rxpl	0	rxpl	0
@@ -90816,7 +90817,7 @@
 遏制	iutl	0	iutl	0
 遏抑	iufy	0	iufy	0
 遏止	iulv	0	iulv	0
-遐思	ccix	0	ccix	0
+遐思	ccis	0	ccis	0
 遐想	cchi	0	cchi	0
 遐迩	ccup	0	ccup	0
 遐迩闻名	cuqy	0	cuqy	0
@@ -90894,7 +90895,7 @@
 遗尿	isco	0	isco	0
 遗属	iscr	0	iscr	0
 遗弃	isqj	1	isqj	1
-遗志	isfx	0	isfx	0
+遗志	isfx	1	isfx	1
 遗忘	isqx	1	isqx	1
 遗恨	ispc	0	ispc	0
 遗愿	isjr	0	isjr	0
@@ -91260,7 +91261,7 @@
 酋长国	atid	0	atid	0
 酌定	hyzf	0	hyzf	0
 酌情	hypd	0	hypd	0
-酌量	hyis	1	hyis	1
+酌量	hyis	2	hyis	2
 配上	hclu	0	hclu	0
 配不上	hjlu	0	hjlu	0
 配乐	hcyl	0	hcyl	0
@@ -91702,7 +91703,7 @@
 野宴	inzi	1	inzi	1
 野心	inxx	1	inxx	0
 野心勃勃	ixff	0	ixff	0
-野心家	ixzj	1	ixzj	1
+野心家	ixzj	0	ixzj	0
 野性	inpt	0	inpt	0
 野战	inli	0	inli	0
 野战军	ilxk	0	ilxk	0
@@ -93999,7 +94000,7 @@
 雅士	krfu	0	krfu	0
 雅安	krzb	0	krzb	0
 雅座	krqw	0	krqw	0
-雅思	krix	0	krix	0
+雅思	kris	0	kris	0
 雅意	krqi	1	krqi	1
 雅正	krfv	0	krfv	0
 雅致	krkt	0	krkt	0
@@ -94009,7 +94010,7 @@
 雅观	krbo	0	krbo	0
 雅言	krqy	1	krqy	1
 雅趣	krfl	0	krfl	0
-雅量	kris	0	kris	0
+雅量	kris	1	kris	1
 雅间	krqi	0	krqi	0
 雅阁	krqy	0	krqy	0
 雅静	krdi	0	krdi	0
@@ -94124,7 +94125,7 @@
 雨衣	hyqy	1	hyqy	1
 雨过天晴	hhdi	0	hhdi	0
 雨里	hyil	0	hyil	0
-雨量	hyis	0	hyis	0
+雨量	hyis	1	hyis	1
 雨雪	hyhc	1	hyhc	1
 雨雾	hyhy	1	hyhy	1
 雨露	hyhi	1	hyhi	1
@@ -94461,7 +94462,7 @@
 静养	diaw	0	diaw	0
 静卧	digp	0	digp	0
 静听	diie	1	diie	1
-静园	diis	1	diis	1
+静园	diis	2	diis	2
 静场	difn	0	difn	0
 静坐	diww	0	diww	0
 静夜	diqr	0	diqr	0
@@ -94470,7 +94471,7 @@
 静寂	dizl	0	dizl	0
 静心	dixx	1	dixx	1
 静态	dijx	0	dijx	0
-静思	diix	0	diix	0
+静思	diis	1	diis	1
 静悄悄	dppp	0	dppp	0
 静止	dilv	0	dilv	0
 静水流深	dozz	1	dozz	1
@@ -94767,7 +94768,7 @@
 音质	qief	0	qief	0
 音轨	qiku	0	qiku	0
 音速	qihx	1	qihx	1
-音量	qiis	1	qiis	1
+音量	qiis	2	qiis	2
 音阶	qivw	0	qivw	0
 音障	qivq	0	qivq	0
 音韵	qiqi	2	qiqi	2
@@ -95803,7 +95804,7 @@
 香皂	tirk	0	tirk	0
 香精	tiad	0	tiad	0
 香肠	tiun	0	tiun	0
-香脂	tiuu	2	tiuu	1
+香脂	tiuu	1	tiuu	1
 香脆	tiuu	0	tiuu	0
 香艳	tisy	0	tisy	0
 香芋	tigd	0	tigd	0
@@ -95828,7 +95829,7 @@
 马倌	mmrz	0	mmrz	0
 马儿	mmue	0	mmue	0
 马克	mmgu	0	mmgu	0
-马克思	mgix	0	mgix	0
+马克思	mgis	0	mgis	0
 马克思主义	mgia	0	mgia	0
 马克思列宁主义	mgia	1	mgia	1
 马六甲	mqij	0	mqij	0
@@ -96443,7 +96444,7 @@
 魏晋	tbgi	0	tbgi	0
 魏碑	tbjr	0	tbjr	0
 魏阙	tbqg	0	tbqg	0
-魑魅魍魉	rrrr	2	rrrr	2
+魑魅魍魉	rrrr	3	rrrr	3
 魔仙	qrro	0	qrro	0
 魔兽	qrai	0	qrai	0
 魔兽争霸	qayh	0	qayh	0
@@ -96574,7 +96575,7 @@
 鲤鱼	yiyy	1	yiyy	1
 鲨鱼	zpyy	0	zpyy	0
 鲫鱼	ycyy	0	ycyy	0
-鲲鹏	yiuu	2	yiuu	1
+鲲鹏	yiuu	0	yiuu	0
 鲶鱼	ywyy	0	ywyy	0
 鲸吞	yqdi	0	yqdi	0
 鲸鱼	yqyy	0	yqyy	0
@@ -96828,7 +96829,7 @@
 黄巾起义	gofa	0	gofa	0
 黄帝	ghqd	0	ghqd	0
 黄斑	ghdd	0	ghdd	0
-黄昏	ghui	0	ghui	0
+黄昏	ghuh	0	ghuh	0
 黄杨	ghhn	0	ghhn	0
 黄果树	gihb	2	gihb	2
 黄柏	ghhr	0	ghhr	0
