@@ -3,7 +3,7 @@ source: null
 info:
   name: 聿码
   author: 子聿
-  version: 0.2.2
+  version: 0.3.0
   description: >-
     参考了郑码、三郑码、徐码、宇浩码、易码的设计思想。
 
@@ -134,6 +134,7 @@ form:
     飠: 饣
     "\uebe2": 参
     麥: 麦
+    "\ue823": 㫃
   mapping:
     '1': sy
     '2': lu
@@ -627,7 +628,6 @@ form:
     "\ue0cb": rd
     "\ue85d": cj
     "\ue420": ro
-    "\ue823": ql
     "\ue86b": mj
     "\ue00f": to
     "\ue09e": tv
@@ -748,6 +748,43 @@ form:
     枼: gy
     麦: sm
     曼: im
+    双拼韵母-a: a
+    双拼韵母-ai: l
+    双拼韵母-an: j
+    双拼韵母-ang: h
+    双拼韵母-ao: k
+    双拼韵母-e: e
+    双拼韵母-ei: z
+    双拼韵母-en: f
+    双拼韵母-eng: g
+    双拼韵母-i: i
+    双拼韵母-ia: w
+    双拼韵母-ian: m
+    双拼韵母-iang: d
+    双拼韵母-iao: c
+    双拼韵母-ie: x
+    双拼韵母-in: 'n'
+    双拼韵母-ing: 'y'
+    双拼韵母-iong: s
+    双拼韵母-iu: q
+    双拼韵母-o: o
+    双拼韵母-ong: s
+    双拼韵母-ou: b
+    双拼韵母-u: u
+    双拼韵母-ua: w
+    双拼韵母-uai: 'y'
+    双拼韵母-uan: r
+    双拼韵母-uang: d
+    双拼韵母-ue: t
+    双拼韵母-ui: v
+    双拼韵母-un: p
+    双拼韵母-uo: o
+    双拼韵母-v: v
+    双拼韵母-ve: t
+    双拼韵母-ê: e
+    双拼韵母-er: r
+    双拼韵母-n: 'n'
+    双拼韵母-ng: h
   mapping_type: 2
 encoder:
   max_length: 4
@@ -842,6 +879,7 @@ data:
     - 戈部截断
     - 腾字框
     - 落字框
+  repertoire: {}
 optimization:
   objective:
     characters_full: {}
