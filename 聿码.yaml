@@ -3,7 +3,7 @@ source: null
 info:
   name: 聿码
   author: 子聿
-  version: 0.3.1
+  version: 0.3.2
   description: >-
     参考了郑码、三郑码、徐码、宇浩码、易码的设计思想。
 
@@ -136,6 +136,9 @@ form:
     麥: 麦
     "\ue823": 㫃
     "\ue896": 昆
+    "\ue02e": 在
+    龹: 卷
+    夾: 夹
   mapping:
     '1': sy
     '2': lu
@@ -198,7 +201,6 @@ form:
     亠: qt
     丷: ab
     㡀: ab
-    龹: aj
     灬: zh
     宀: zm
     氵: zu
@@ -791,6 +793,19 @@ form:
     思: is
     昆: ik
     昏: uh
+    占: lv
+    累: il
+    宛: zw
+    在: jv
+    亢: qk
+    炏: ay
+    "\ue8af": ay
+    垚: dy
+    "\ue83b": dt
+    卷: aj
+    叕: nv
+    圭: dg
+    瞿: iq
   mapping_type: 2
 encoder:
   max_length: 4
