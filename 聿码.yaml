@@ -3,7 +3,7 @@ source: null
 info:
   name: 聿码
   author: 子聿
-  version: 0.2.0
+  version: 0.2.2
   description: >-
     参考了郑码、三郑码、徐码、宇浩码、易码的设计思想。
 
@@ -129,6 +129,11 @@ form:
     "\ue106": "\ue0b7"
     "\ue114": 聿
     "\uebc2": "\ue824"
+    頁: 页
+    昜: "\ue056"
+    飠: 饣
+    "\uebe2": 参
+    麥: 麦
   mapping:
     '1': sy
     '2': lu
@@ -701,6 +706,48 @@ form:
     "\ue082": jy
     尞: jy
     "\ue0d6": uf
+    可: hk
+    古: gg
+    吉: fj
+    喜: fx
+    肙: iy
+    昔: gx
+    "\ue8e7": iq
+    吅: ix
+    包: yb
+    句: yj
+    勾: yg
+    "\ue0e4": io
+    品: ip
+    粦: al
+    雚: gg
+    名: ym
+    各: yg
+    麻: qm
+    咅: qp
+    "\ue09f": xo
+    令: wl
+    㫃: qy
+    殳: yu
+    回: oh
+    参: nc
+    㐱: wv
+    羽: ny
+    翏: nl
+    亘: hg
+    含: wh
+    合: wh
+    宣: zx
+    害: zh
+    春: si
+    畺: hj
+    者: fv
+    胃: iw
+    某: gm
+    荣: gr
+    枼: gy
+    麦: sm
+    曼: im
   mapping_type: 2
 encoder:
   max_length: 4
@@ -723,15 +770,31 @@ encoder:
     s3:
       object: {type: 字根, rootIndex: 1}
       index: 1
-      next: null
+      next: s6
     s4:
       object: {type: 字根, rootIndex: 2}
       index: 1
-      next: null
+      next: s7
     s5:
+      object: {type: 字根, rootIndex: 3}
+      next: c2
+      index: 0
+    s6:
+      object: {type: 字音, subtype: 双拼韵母}
+      next: null
+      index: 0
+    s7:
+      object: {type: 字根, rootIndex: 1}
+      next: null
+      index: 1
+    s8:
       object: {type: 字根, rootIndex: -1}
       next: null
       index: 0
+    s9:
+      object: {type: 字根, rootIndex: 3}
+      next: null
+      index: 1
   conditions:
     c0:
       object: {type: 字根, rootIndex: 2}
@@ -744,6 +807,11 @@ encoder:
       positive: s5
       negative: s4
       value: ''
+    c2:
+      object: {type: 字根, rootIndex: 4}
+      operator: 存在
+      positive: s8
+      negative: s9
   short_code:
     - length_equal: 1
       schemes: [{prefix: 1}, {prefix: 2, count: 1}, {prefix: 3, count: 1}]
@@ -755,7 +823,7 @@ encoder:
     - length_in_range: [4, 10]
       formula: AaBaCaZa
 data:
-  character_set: general
+  character_set: extended
   tags:
     - 衣框
     - 旅字框
